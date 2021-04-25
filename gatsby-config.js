@@ -1,6 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: "Full Stack Kitchen",
+    title: `Full Stack Kitchen`,
+    author: `Tara Siegel`,
+    description: `Full Stack Kitchen: Unique Dessert Recipes from an Engineer's Mind`,
+    siteUrl: `https://fullstackkitchen.com/`,
+    social: {
+      instagram: `taras.kitchen`,
+    },
   },
   plugins: [
     "gatsby-plugin-sass",
@@ -15,9 +21,15 @@ module.exports = {
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-sitemap",
     {
-      resolve: "gatsby-plugin-manifest",
+      resolve: `gatsby-plugin-manifest`,
       options: {
-        icon: "src/images/icon.png",
+        name: `Full Stack Kitchen by Tara Siegel`,
+        short_name: `Full Stack Kitchen`,
+        start_url: `/`,
+        background_color: `#ffffff`,
+        theme_color: `#663399`,
+        display: `minimal-ui`,
+        icon: `content/assets/fsk-icon.png`,
       },
     },
     "gatsby-plugin-mdx",

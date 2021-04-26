@@ -1,0 +1,276 @@
+.recipe {
+    position: relative;
+    margin: 40px 0px;
+    padding: 20px 10px;
+    border-top: 1px solid rgba(0,0,0,0.15);
+}
+
+.recipe__instruction {
+
+}
+
+.recipe__instruction {
+
+}
+
+.recipe__assembly {
+
+}
+
+.recipe__section {
+    position: relative;
+}
+
+.recipe__title {
+    font-size: 24px;
+    font-style: italic;
+    line-height: 30px;
+    color: #000;
+    margin-top: 0;
+}
+
+.recipe__image {
+    width: 100px;
+    float: right;
+    display: none;
+}
+
+.recipe__yield {
+    color: #000;
+    font-size: 14px;
+    line-height: 24px;
+    display: block;
+}
+
+.recipe__time {
+    font-size: 12px;
+    line-height: 19px;
+    position: relative;
+    margin: 20px 0;
+}
+
+.recipe__prep-time {
+
+}
+
+.recipe__cook-time {
+
+}
+
+.recipe__total-time {
+
+}
+
+.recipe__time div {
+    display: inline;
+    margin-right: 10px;
+    padding-right: 10px;
+    border-right: 1px solid;
+}
+
+.recipe__time div:last-of-type {
+    border-right: none;
+}
+
+.recipe__section-title {
+    text-decoration: underline;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-family: 'Arvo',sans-serif;
+    font-size: 0.87055rem;
+    color: #000;
+}
+
+.recipe__sub-title {
+    font-size: 24px;
+    line-height: 28px;
+    margin: 40px 0 10px;
+    text-decoration: underline;
+}
+
+.recipe__content {
+    display: block;
+    width: 100%;
+}
+
+.recipe__ingredients-title  {
+    margin-bottom: 0.8rem;
+}
+
+.ingredient-section__ingredient-item {
+    list-style: none;
+    margin-bottom: 0;
+    color: #2d2d2d;
+}
+
+.ingredient-section__ingredient-item div {
+    display: inline;
+    padding: 0 10px;
+    font-size: 16px;
+    line-height: 16px;
+}
+
+.ingredient-section__ingredient-item.hover div {
+    background-color: #a09097;
+    color: #fff;
+}
+
+.check {
+    cursor: pointer;
+    position: relative;
+    margin: auto;
+    width: 16px;
+    height: 16px;
+    -webkit-tap-highlight-color: transparent;
+    transform: translate3d(0, 0, 0);
+    margin-right: 5px;
+    top: 2px;
+}
+
+.check:before {
+    content: "";
+    position: absolute;
+    top: -9px;
+    left: -9px;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background: rgba(34,50,84,0.03);
+    opacity: 0;
+    transition: opacity 0.2s ease;
+}
+
+.check svg {
+    position: relative;
+    z-index: 1;
+    fill: none;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke: #a09097;
+    stroke-width: 1.5;
+    transform: translate3d(0, 0, 0);
+    transition: all 0.2s ease;
+}
+  
+.check svg path {
+    stroke-dasharray: 60;
+    stroke-dashoffset: 0;
+}
+
+.check svg polyline {
+    stroke-dasharray: 22;
+    stroke-dashoffset: 66;
+}
+
+.check:hover:before {
+    opacity: 1;
+}
+
+.check:hover svg {
+    stroke: #a09097;
+}
+
+.ingredient-section__ingredient-item-input {
+    display: none;
+    margin-right: 3px;
+}
+
+
+.ingredient-section__ingredient-item-input:checked + .check svg {
+    stroke: #a09097;
+}
+
+.ingredient-section__ingredient-item-input:checked + .check svg path {
+    stroke-dashoffset: 60;
+    transition: all 0.3s linear;
+}
+
+.ingredient-section__ingredient-item-input:checked + .check svg polyline {
+    stroke-dashoffset: 42;
+    transition: all 0.2s linear;
+    transition-delay: 0.15s;
+}
+  
+
+.ingredient-section {
+
+}
+
+.ingredient-section__title {
+    color: hsla(0,0%,0%,0.9);
+    font-family: 'Arvo',sans-serif;
+    font-weight: 700;
+    text-rendering: optimizeLegibility;
+    font-size: 0.77rem;
+    line-height: 1.2;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+.ingredient-section__ingredients {
+    margin-bottom: 30px;
+}
+
+.instruction-item {
+    cursor: pointer;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.recipe__instructions-title {
+    margin-bottom: 13px;
+}
+
+.recipe__paragraph {
+    margin-bottom: 1.3rem;
+    color: #2d2d2d;
+}
+
+@media  (min-width: 767px) {
+
+    .recipe {
+        padding: 30px;
+        border: 1px solid rgba(0,0,0,0.15);
+    }
+
+    .recipe__content {
+        display: inline-flex;
+    }
+    
+    .recipe__ingredients-container {
+        flex: 1;
+        margin: 1rem 0;
+    }
+    
+    .recipe__instructions-container {
+        margin: 1rem 0 1rem 1rem;
+        flex: 2;
+        border-left: 1px solid;
+        padding-left: 1rem;
+    }
+    
+
+    .recipe__title {
+        font-size: 30px;
+        width: 75%;
+    }
+
+    .recipe__image {
+        position: absolute;
+        right: 20px;
+        top: 20px;
+        text-align: right;
+        display: block;
+    }
+
+    .recipe__time {
+        display: block;
+        margin: 0;
+    }
+
+    .ingredient-section__ingredient-item {
+        margin-left: 10px;
+        margin-bottom: 10px;
+    }
+}

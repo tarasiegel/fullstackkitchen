@@ -1,0 +1,26 @@
+.recipe-page__container {
+
+}
+.recipe-page {
+    margin: 10px 0 40px;
+}
+
+.recipe-page__category {
+    text-transform: uppercase;
+    color: #a09097;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 1.5px;
+    margin-top: 10px;
+}
+
+.recipe-page__title {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-size: 17px;
+    line-height: 18px;
+    color: #000;
+}
+.recipe-page__title a {
+    color: #000;
+}

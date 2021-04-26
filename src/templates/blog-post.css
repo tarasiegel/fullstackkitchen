@@ -1,0 +1,107 @@
+.blog-post__navigation {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    list-style: none;
+    padding: 20px 0;
+    margin: 30px 0;
+    border-top: 1px solid #d9d9d9;
+    border-bottom: 1px solid #d9d9d9;
+}
+
+.blog-post__navigation li {
+    margin: 0;
+}
+
+.recipe-tags {
+    text-align: center;
+}
+
+.recipe-tag {
+    text-transform: uppercase;
+    font-size: 16px;
+    padding: 5px 10px !important;
+    border: 1px solid #d9d9d9;
+    border-radius: 6px;
+    margin: 0 5px;
+}
+
+.recipe-tag:hover {
+    background-color: #a09097;
+    color: #fff;
+}
+
+.blog-post__bottom {
+    position: relative;
+    padding-bottom: 5px;
+}
+
+.blog-post__bottom-title {
+    font: 20px/22px "Cabin";
+    font-weight: bold;
+    padding: 20px 20px 0px;
+    text-align: center;
+}
+
+.blog-post__bottom-title a {
+    color: #2d2d2d;
+    font-family: "Arvo";
+    margin-left: 3px;
+}
+
+.blog-post__instagram {
+    display: flex;
+    flex: 2;
+    flex-wrap: wrap;
+    margin: 20px 10px 0 20px;
+}
+
+
+.instagram-post__item {
+    width: calc(50% - 10px);
+    margin-right: 10px;
+}
+
+.instagram-post__item:hover {
+    background-color: transparent;
+}
+
+
+.instagram-post__item img {
+    margin-bottom: 10px;
+}
+
+.blog-post__share-tools {
+    text-align: center;
+    position: relative;
+    padding: 10px 0 20px
+}
+
+.blog-post__share-tools a {
+    padding: 10px;
+}
+
+@media (min-width: 767px) {
+
+    .blog-post__instagram {
+        flex: 4;
+    }
+    
+    .instagram-post__item {
+        width: calc(25% - 10px);
+    }
+
+    .blog-post__share-tools {
+        text-align: right;
+        position: absolute;
+        top: 15px;
+        right: 15px;
+        padding: 0;
+    }
+
+    .blog-post__bottom-title {
+        text-align: left;
+        font-size: 22px;
+    }
+
+}

@@ -1,25 +1,121 @@
 module.exports = {
-  siteMetadata: {
+  siteMetadata:  {
     title: `Full Stack Kitchen`,
-    author: `Tara Siegel`,
-    description: `Full Stack Kitchen: Unique Dessert Recipes from an Engineer's Mind`,
-    siteUrl: `https://fullstackkitchen.com/`,
-    social: {
-      instagram: `taras.kitchen`,
+    author: {
+      name: `Tara Siegel`,
+      summary: `who bakes, codes, and lives in Brooklyn.`,
     },
+  description: `Full Stack Kitchen: Unique Dessert Recipes from an Engineer's Mind`,
+  siteUrl: `https://fullstackkitchen.com/`,
+  social: {
+    instagram: `taras.kitchen`,
   },
+},
   plugins: [
-    "gatsby-plugin-sass",
-    "gatsby-plugin-gatsby-cloud",
-    "gatsby-plugin-image",
+    `gatsby-plugin-image`,
     {
-      resolve: "gatsby-plugin-google-analytics",
+      resolve: `gatsby-source-filesystem`,
       options: {
-        trackingId: "UA-38256341-2",
+        path: `${__dirname}/content/blog`,
+        name: `blog`,
       },
     },
-    "gatsby-plugin-react-helmet",
-    "gatsby-plugin-sitemap",
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/content/pages`,
+        name: `pages`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/content/assets`,
+        name: `assets`,
+      },
+    },
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              maxWidth: 1280,
+            },
+          },
+          {
+            resolve: `gatsby-remark-responsive-iframe`,
+            options: {
+              wrapperStyle: `margin-bottom: 1.0725rem`,
+            },
+          },
+          `gatsby-remark-prismjs`,
+          `gatsby-remark-copy-linked-files`,
+          `gatsby-remark-smartypants`,
+        ],
+      },
+    },
+    `gatsby-transformer-sharp`,
+    `gatsby-plugin-sharp`,
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: `UA-38256341-2`,
+      },
+    },
+    {
+      resolve: `gatsby-plugin-feed`,
+      options: {
+        query: `
+          {
+            site {
+              siteMetadata {
+                title
+                description
+                siteUrl
+                site_url: siteUrl
+              }
+            }
+          }
+        `,
+        feeds: [
+          {
+            serialize: ({ query: { site, allMarkdownRemark } }) => {
+              return allMarkdownRemark.nodes.map(node => {
+                return Object.assign({}, node.frontmatter, {
+                  description: node.excerpt,
+                  date: node.frontmatter.date,
+                  url: site.siteMetadata.siteUrl + node.fields.slug,
+                  guid: site.siteMetadata.siteUrl + node.fields.slug,
+                  custom_elements: [{ "content:encoded": node.html }],
+                })
+              })
+            },
+            query: `
+              {
+                allMarkdownRemark(
+                  sort: { order: DESC, fields: [frontmatter___date] },
+                ) {
+                  nodes {
+                    excerpt
+                    html
+                    fields {
+                      slug
+                    }
+                    frontmatter {
+                      title
+                      date
+                    }
+                  }
+                }
+              }
+            `,
+            output: "/rss.xml",
+          },
+        ],
+      },
+    },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
@@ -32,24 +128,25 @@ module.exports = {
         icon: `content/assets/fsk-icon.png`,
       },
     },
-    "gatsby-plugin-mdx",
-    "gatsby-plugin-sharp",
-    "gatsby-transformer-sharp",
+    `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-gatsby-cloud`,
+    `gatsby-plugin-offline`,
     {
-      resolve: "gatsby-source-filesystem",
+      resolve: `gatsby-plugin-typography`,
       options: {
-        name: "images",
-        path: "./src/images/",
+        pathToConfigModule: `src/utils/typography`,
       },
-      __key: "images",
-    },
-    {
-      resolve: "gatsby-source-filesystem",
-      options: {
-        name: "pages",
-        path: "./src/pages/",
-      },
-      __key: "pages",
-    },
+    }
+    // {
+    //   resolve: `gatsby-source-instagram`,
+    //   options: {
+    //     username: `taras.kitchen`,
+    //     access_token: '6885349594.1677ed0.35b20b688003427ba82a56b9f09e15a5',
+    //     instagram_id: '6885349594',
+    //     paginate: 100,
+    //     maxPosts: 1000,
+    //     hashtags: true
+    //   },
+    // },
   ],
-};
+}

@@ -1,0 +1,6 @@
+{
+    "prettier.enableDebugLogs": true,
+    "prettier.insertPragma": true,
+    "prettier.requireConfig": true,
+    "prettier.singleQuote": true
+}

@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from "react";
 import './Layout.css';
 import Header from './header';
 import { Link } from 'gatsby';

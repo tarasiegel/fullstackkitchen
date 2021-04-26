@@ -1,4 +1,4 @@
-import React from 'react'
+import * as React from "react";
 import titleLogo from './../../content/assets/fullstackkitchen_logo.svg';
 import ReactVivus from 'react-vivus';
 import { Link } from 'gatsby';

@@ -47,7 +47,7 @@ class BlogPostTemplate extends React.Component {
             <Seo 
                 title={post.frontmatter.title}
                 description={post.excerpt}
-                image={post.frontmatter.image.childImageSharp.fluid.src}
+                image={post.frontmatter.image.childImageSharp.gatsbyImageData}
             />
             
             <div className="blog-post--left">
@@ -65,7 +65,7 @@ class BlogPostTemplate extends React.Component {
                         keywords={post.frontmatter.tags}
                         date={post.frontmatter.date}
                         description={post.frontmatter.description}
-                        image={post.frontmatter.image.childImageSharp.fluid}
+                        image={post.frontmatter.image.childImageSharp.gatsbyImageData}
                     />
                 </div>
                 : null
@@ -143,9 +143,10 @@ export const pageQuery = graphql`
               tags
               image {
                 childImageSharp {
-                    fluid(maxWidth: 786) {
-                      ...GatsbyImageSharpFluid
-                    }
+                  resize(width: 650, height: 650) {
+                    src
+                  }
+                  gatsbyImageData(width: 786, layout: CONSTRAINED)
                 }
               }
               date(formatString: "MMMM DD, YYYY")

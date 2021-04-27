@@ -5,7 +5,7 @@ import Layout from '../components/layout';
 import Seo from '../components/seo';
 import './recipePage.css';
 
-const Recipes = (props) => {
+const Recipes = ({data, location}) => {
   const getPosts = (posts) => {
       let postHtml = [];
       posts.forEach(post => {
@@ -30,7 +30,6 @@ const Recipes = (props) => {
       return catsHtml;
   }
 
-  const { data } = this.props;
   const siteTitle = data.site.siteMetadata.title;
   const posts = data.allMarkdownRemark.edges;
 
@@ -56,7 +55,7 @@ const Recipes = (props) => {
   });
 
   return (
-    <Layout location={this.props.location} title={siteTitle}>
+    <Layout location={location} title={siteTitle}>
       <Seo title="Recipes" image="" />
       <div className="recipe-page__container">
           {getCategories(orderedPostMap)}

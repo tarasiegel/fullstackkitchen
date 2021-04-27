@@ -1,27 +1,15 @@
-import * as React from "react";
+import React, { useState } from 'react';
 import titleLogo from './../../content/assets/fullstackkitchen_logo.svg';
 import ReactVivus from 'react-vivus';
 import { Link } from 'gatsby';
 import { Icon } from 'react-icons-kit';
 import {instagram} from 'react-icons-kit/fa/instagram';
 
-class Header extends React.Component {
+const Header = () => {
 
-    constructor(props) {
+    const [menuOpen, setMenuOpen] = useState(false);
 
-    super(props);
-        this.state = {
-            start: false,
-            menuOpen: false
-        };
-    }
-
-    toggleMenu = () => {
-        this.setState({menuOpen: !this.state.menuOpen});
-    }
-
-    render() {
-        return (
+    return (
         <div className="header">
             <Link
             style={{
@@ -42,11 +30,10 @@ class Header extends React.Component {
                     onReady: console.log
                     }}
                     style={{ height: 'auto', width: '450px' }}
-                    callback={console.log}
                 />
             </Link>
-            <div className={`header__link-container ${(this.state.menuOpen) ? 'menu-open' : ''}`}>
-                <div className={`header__menu mobile`} onClick={this.toggleMenu}>menu</div>
+            <div className={`header__link-container ${(menuOpen) ? 'menu-open' : ''}`}>
+                <div className={`header__menu mobile`} onClick={() => setMenuOpen(!menuOpen)}>menu</div>
                 <div className="header__link mobile"><Link to={'/'}>home</Link></div>
                 <div className="header__link"><Link to={'/about'}>about</Link></div>
                 <div className="header__link"><Link to={'/recipes'}>recipes</Link></div>
@@ -54,8 +41,7 @@ class Header extends React.Component {
 
             </div>
         </div>
-        );
-    }
+    );
 }
 
 export default Header;

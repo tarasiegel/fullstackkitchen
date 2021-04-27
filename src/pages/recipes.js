@@ -3,71 +3,66 @@ import { Link, graphql } from 'gatsby';
 import _ from 'underscore';
 import Layout from '../components/layout';
 import Seo from '../components/seo';
-// import { GatsbyImage } from "gatsby-plugin-image";
 import './recipePage.css';
 
-class Recipes extends React.Component {
-    getPosts = (posts) => {
-        let postHtml = [];
-        posts.forEach(post => {
-            postHtml.push(<div className="recipe-page__title">
-                <Link style={{ boxShadow: `none` }} to={post.slug} key={post.slug} >
-                    {post.title}
-                </Link>
-            </div>);
-        });
+const Recipes = (props) => {
+  const getPosts = (posts) => {
+      let postHtml = [];
+      posts.forEach(post => {
+          postHtml.push(<div className="recipe-page__title">
+              <Link style={{ boxShadow: `none` }} to={post.slug} key={post.slug} >
+                  {post.title}
+              </Link>
+          </div>);
+      });
 
-        console.log(postHtml);
-        return postHtml;
-    }
-
-    getCategories = (orderedPostMap) => {
-       let catsHtml = [];
-        _.each(orderedPostMap, (posts, cat) => {
-            catsHtml.push(<div className="recipe-page" key={cat}>
-                <div className="recipe-page__category" >{cat}</div>
-                {this.getPosts(posts)}
-            </div>);
-        });
-        return catsHtml;
-    }
-
-    render() {
-        const { data } = this.props,
-            siteTitle = data.site.siteMetadata.title,
-            posts = data.allMarkdownRemark.edges;
-
-        let postMap = {}, orderedPostMap = {};
-
-        posts.forEach(({node}) => {
-            let post = {
-                slug: node.fields.slug,
-                title: node.frontmatter.title || node.fields.slug
-            };
-
-            node.frontmatter.tags.forEach(tag => {
-                if (postMap[tag]) {
-                    postMap[tag].push(post);
-                } else {
-                    postMap[tag] = [post];
-                }
-            });
-        });
-        
-        Object.keys(postMap).sort().forEach(key => {
-            orderedPostMap[key] = postMap[key];
-        });
-
-        return (
-        <Layout location={this.props.location} title={siteTitle}>
-            <Seo title="Recipes" image="" />
-            <div className="recipe-page__container">
-                {this.getCategories(orderedPostMap)}
-        </div>
-        
-      </Layout>
-    )
+      return postHtml;
   }
+
+  const getCategories = (orderedPostMap) => {
+      let catsHtml = [];
+      _.each(orderedPostMap, (posts, cat) => {
+          catsHtml.push(<div className="recipe-page" key={cat}>
+              <div className="recipe-page__category" >{cat}</div>
+              {this.getPosts(posts)}
+          </div>);
+      });
+      return catsHtml;
+  }
+
+  const { data } = this.props;
+  const siteTitle = data.site.siteMetadata.title;
+  const posts = data.allMarkdownRemark.edges;
+
+  let postMap = {}, orderedPostMap = {};
+
+  posts.forEach(({node}) => {
+      let post = {
+          slug: node.fields.slug,
+          title: node.frontmatter.title || node.fields.slug
+      };
+
+      node.frontmatter.tags.forEach(tag => {
+          if (postMap[tag]) {
+              postMap[tag].push(post);
+          } else {
+              postMap[tag] = [post];
+          }
+      });
+  });
+  
+  Object.keys(postMap).sort().forEach(key => {
+      orderedPostMap[key] = postMap[key];
+  });
+
+  return (
+    <Layout location={this.props.location} title={siteTitle}>
+      <Seo title="Recipes" image="" />
+      <div className="recipe-page__container">
+          {this.getCategories(orderedPostMap)}
+      </div>
+    </Layout>
+  )
 }
 
 export default Recipes;

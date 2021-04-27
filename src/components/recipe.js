@@ -1,13 +1,13 @@
 import * as React from "react";
 import PropTypes from 'prop-types';
 import RecipeSEO from './recipeSEO';
-import './Recipe.css';
+import './recipe.css';
 import { GatsbyImage } from "gatsby-plugin-image";
 import $ from 'jquery';
 
-class Recipe extends React.Component {
+const Recipe = (props) => {
 
-    getRecipeSection = (recipe) => {
+    const getRecipeSection = (recipe) => {
         let recipeHtml = [];
         recipe.forEach((rec, sec) => {
             recipeHtml.push(<RecipeSection recipe={rec} sectionKey={sec} key={sec} />);
@@ -15,22 +15,19 @@ class Recipe extends React.Component {
         return recipeHtml;
     }
 
-    render() {
-        const {name, recipe, image} = this.props;
-        const recipeSections = this.getRecipeSection(recipe);
-        
-
-        return (
-            <div className="recipe">
-                <RecipeSEO data={recipe[0]} image={image} {...this.props}  />
-                <div className="recipe__image">
-                    <GatsbyImage image={image} alt={name}/>
-                </div>
-                <h3 className="recipe__title">{name}</h3>
-                {recipeSections}
+    const { name, recipe, image } = props;
+    const recipeSections = getRecipeSection(recipe);
+    
+    return (
+        <div className="recipe">
+            <RecipeSEO data={recipe[0]} image={image} {...props}  />
+            <div className="recipe__image">
+                <GatsbyImage image={image} alt={name}/>
             </div>
-        );
-    }
+            <h3 className="recipe__title">{name}</h3>
+            {recipeSections}
+        </div>
+    );
 }
 
 
@@ -219,8 +216,5 @@ class RecipeIngredients extends React.Component {
         )
     }
 }
-
-
-
 
 export default Recipe;

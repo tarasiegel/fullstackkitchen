@@ -374,7 +374,7 @@ footer {
     }
 
     .footer__text {
-        display: inline-block;
+        display: inline;
         float: right;
         text-align: right;
     }

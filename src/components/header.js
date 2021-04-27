@@ -37,7 +37,7 @@ const Header = () => {
                 <div className="header__link mobile"><Link to={'/'}>home</Link></div>
                 <div className="header__link"><Link to={'/about'}>about</Link></div>
                 <div className="header__link"><Link to={'/recipes'}>recipes</Link></div>
-                <div className="header__link"><a href="https://www.instagram.com/taras.kitchen" target="_blank" rel="noreferrer"><Icon size={30} icon={instagram}/></a></div>
+                <div className="header__link"><a href="https://www.instagram.com/taras.kitchen" aria-label="instagram-icon" target="_blank" rel="noreferrer"><Icon size={30} icon={instagram}/></a></div>
 
             </div>
         </div>

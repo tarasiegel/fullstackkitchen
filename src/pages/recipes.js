@@ -24,7 +24,7 @@ const Recipes = (props) => {
       _.each(orderedPostMap, (posts, cat) => {
           catsHtml.push(<div className="recipe-page" key={cat}>
               <div className="recipe-page__category" >{cat}</div>
-              {this.getPosts(posts)}
+              {getPosts(posts)}
           </div>);
       });
       return catsHtml;
@@ -59,7 +59,7 @@ const Recipes = (props) => {
     <Layout location={this.props.location} title={siteTitle}>
       <Seo title="Recipes" image="" />
       <div className="recipe-page__container">
-          {this.getCategories(orderedPostMap)}
+          {getCategories(orderedPostMap)}
       </div>
     </Layout>
   )

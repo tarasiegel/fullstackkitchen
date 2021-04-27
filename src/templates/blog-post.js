@@ -1,10 +1,10 @@
-import React from 'react';
+import * as React from "react";
 import { Link, graphql } from 'gatsby';
-import Layout from '../components/Layout';
-import SEO from '../components/seo';
-import Recipe from '../components/Recipe';
-// import InstagramPosts from '../components/InstagramPosts';
-import { rhythm, scale } from '../utils/typography';
+import Layout from '../components/layout';
+import Seo from '../components/seo';
+import Recipe from '../components/recipe';
+// import InstagramPosts from '../components/instagramPosts';
+import { rhythm } from '../utils/typography';
 import './blog-post.css';
 
 import { Icon } from 'react-icons-kit';
@@ -44,7 +44,7 @@ class BlogPostTemplate extends React.Component {
 
     return (
         <Layout location={this.props.location} title={siteTitle}>
-            <SEO 
+            <Seo 
                 title={post.frontmatter.title}
                 description={post.excerpt}
                 image={post.frontmatter.image.childImageSharp.fluid.src}
@@ -103,15 +103,15 @@ class BlogPostTemplate extends React.Component {
                 <div className="blog-post__bottom">
                     <div className="blog-post__bottom-title">follow at <a href="https://www.instagram.com/taras.kitchen" target="_blank" rel="noreferrer">@taras.kitchen</a></div>
                     <div className="blog-post__share-tools desktop">
-                    <a className="is-icon" href="https://www.instagram.com/taras.kitchen" target="_blank" rel="noreferrer"><Icon size={25} icon={instagram}/></a>
-                    <a className="is-icon" href="https://www.facebook.com/tarasiegelskitchen/" target="_blank" rel="noreferrer"><Icon size={25} icon={facebook}/></a>
-                    <a className="is-icon" href="mailto:tarafsiegel@gmail.com" target="_blank" rel="noreferrer"><Icon size={25} icon={envelope}/></a>
+                    <a className="is-icon" aria-label="instagram-icon" href="https://www.instagram.com/taras.kitchen" target="_blank" rel="noreferrer"><Icon size={25} icon={instagram}/></a>
+                    <a className="is-icon" aria-label="facebook-icon" href="https://www.facebook.com/tarasiegelskitchen/" target="_blank" rel="noreferrer"><Icon size={25} icon={facebook}/></a>
+                    <a className="is-icon" aria-label="mail-icon" href="mailto:tarafsiegel@gmail.com" target="_blank" rel="noreferrer"><Icon size={25} icon={envelope}/></a>
                 </div>
                     
                 <div className="blog-post__share-tools mobile">
-                    <a className="is-icon" href="https://www.instagram.com/taras.kitchen" target="_blank" rel="noreferrer"><Icon size={30} icon={instagram}/></a>
-                    <a className="is-icon" href="https://www.facebook.com/tarasiegelskitchen/" target="_blank" rel="noreferrer"><Icon size={30} icon={facebook}/></a>
-                    <a className="is-icon" href="mailto:tarafsiegel@gmail.com" target="_blank" rel="noreferrer"><Icon size={30} icon={envelope}/></a>
+                    <a className="is-icon" aria-label="instagram-icon" href="https://www.instagram.com/taras.kitchen" target="_blank" rel="noreferrer"><Icon size={30} icon={instagram}/></a>
+                    <a className="is-icon" aria-label="facebook-icon" href="https://www.facebook.com/tarasiegelskitchen/" target="_blank" rel="noreferrer"><Icon size={30} icon={facebook}/></a>
+                    <a className="is-icon" aria-label="mail-icon" href="mailto:tarafsiegel@gmail.com" target="_blank" rel="noreferrer"><Icon size={30} icon={envelope}/></a>
                 </div>  
                             
                 </div>
@@ -142,14 +142,11 @@ export const pageQuery = graphql`
               description
               tags
               image {
-              childImageSharp {
-                  resize(width: 650, height: 650) {
-                  src
-                  }
-                  fluid(maxWidth: 786) {
-                  ...GatsbyImageSharpFluid
-                  }
-              }
+                childImageSharp {
+                    fluid(maxWidth: 786) {
+                      ...GatsbyImageSharpFluid
+                    }
+                }
               }
               date(formatString: "MMMM DD, YYYY")
           }

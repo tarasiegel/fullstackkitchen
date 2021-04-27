@@ -20,6 +20,9 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
             fields {
               slug
             }
+            frontmatter {
+              title
+            }
           }
         }
       }
@@ -30,8 +33,8 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     reporter.panicOnBuild(
       `There was an error loading your blog posts`,
       result.errors
-    )
-    return
+    );
+    return;
   }
 
   const posts = result.data.allMarkdownRemark.nodes.filter(item => item.fields.slug !== "/about/");

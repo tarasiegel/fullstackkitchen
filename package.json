@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "gatsby": "^4.11.1",
+    "gatsby-image": "^3.11.0",
     "gatsby-plugin-feed": "^4.11.1",
     "gatsby-plugin-gatsby-cloud": "^4.11.1",
     "gatsby-plugin-google-analytics": "^4.11.0",
@@ -24,6 +25,7 @@
     "gatsby-remark-responsive-iframe": "^5.11.0",
     "gatsby-remark-smartypants": "^5.11.0",
     "gatsby-source-filesystem": "^4.11.1",
+    "gatsby-source-instagram": "^0.9.0",
     "gatsby-transformer-remark": "^5.11.1",
     "gatsby-transformer-sharp": "^4.11.0",
     "jquery": "^3.6.0",

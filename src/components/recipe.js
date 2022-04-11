@@ -114,9 +114,10 @@ class RecipeSection extends React.Component {
         let updatedInstruction = instruction;
         refData.forEach((sec, secKey) => {
             sec.forEach((ref, refKey) => {
+                console.log(ref);
                 if (updatedInstruction.indexOf(ref) !== -1) {
                     const fullRefKey = `${recipeSectionKey}-${secKey}-${refKey}`;
-                    updatedInstruction = updatedInstruction.replace(ref, `<span id="ref-${fullRefKey}" class="instruction-item" data-ref="${fullRefKey}" data-ingredient=${ref} key="${refKey}" >${ref}</span>`);
+                    updatedInstruction = updatedInstruction.replace(ref, `<span id="ref-${fullRefKey}" class="instruction-item" data-ref="${fullRefKey}" data-ingredient="${ref}" key="${refKey}" >${ref}</span>`);
                 }
             });
         });

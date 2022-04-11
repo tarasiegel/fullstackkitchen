@@ -3,7 +3,7 @@ import { Link, graphql } from 'gatsby';
 import Layout from '../components/layout';
 import Seo from '../components/seo';
 import Recipe from '../components/recipe';
-// import InstagramPosts from '../components/instagramPosts';
+import InstagramPosts from '../components/InstagramPosts';
 import { rhythm } from '../utils/typography';
 import './blog-post.css';
 
@@ -116,7 +116,7 @@ class BlogPostTemplate extends React.Component {
                             
                 </div>
             </div>
-            <div className="blog-post--right"></div>
+            <div className="blog-post--right"><InstagramPosts limit={8}/></div>
         </Layout>
     )
                         }

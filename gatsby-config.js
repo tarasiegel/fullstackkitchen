@@ -137,17 +137,12 @@ module.exports = {
       options: {
         pathToConfigModule: `src/utils/typography`,
       },
-    }
-    // {
-    //   resolve: `gatsby-source-instagram`,
-    //   options: {
-    //     username: `taras.kitchen`,
-    //     access_token: '6885349594.1677ed0.35b20b688003427ba82a56b9f09e15a5',
-    //     instagram_id: '6885349594',
-    //     paginate: 100,
-    //     maxPosts: 1000,
-    //     hashtags: true
-    //   },
-    // },
+    },
+    {
+      resolve: `gatsby-source-instagram`,
+      options: {
+        username: `6885349594`,
+      },
+    },
   ],
 }

@@ -8,7 +8,7 @@ import { instagram } from 'react-icons-kit/fa/instagram';
 import { envelope } from 'react-icons-kit/fa/envelope';
 import { facebookSquare } from 'react-icons-kit/fa/facebookSquare';
 import { pinterest } from 'react-icons-kit/fa/pinterest';
-// import InstagramPosts from '../components/InstagramPosts';
+import InstagramPosts from '../components/InstagramPosts';
 
 import Layout from '../components/layout';
 import Seo from '../components/seo';
@@ -18,6 +18,7 @@ import './about.css';
 const About = ({data, location}) => {
   const { author, title } = data.site.siteMetadata;
   const pages = data.aboutData.edges;
+  console.log(pages);
 
   return (
     <Layout location={location} title={title}> 
@@ -38,12 +39,12 @@ const About = ({data, location}) => {
                           <a className="about-container__icon" aria-label="mail-icon" href="mailto:tarafsiegel@gmail.com" target="_blank" rel="noreferrer"><Icon size={25} icon={envelope}/></a>                 
                       </div>
                       </div>
-                      <div className="about-container__instagram desktop"></div>
+                      <div className="about-container__instagram desktop"><InstagramPosts limit={16}/></div>
                   </div>
                   <div className="about-container__text-container">
                       <div className="blog-html" dangerouslySetInnerHTML={{ __html: node.html }} />
                   </div>
-                  <div className="about-container__instagram mobile"></div>
+                  
               </div>
             );
         })}

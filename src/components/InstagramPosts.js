@@ -1,48 +1,31 @@
-// import React from 'react'
-// import { StaticQuery, Link, graphql } from 'gatsby';
+import React from 'react';
+import Image from 'gatsby-image';
+import useInstagram from '../hooks/use-instagram';
 
-// export default() => (
-//     <StaticQuery
-//         query={
-//             graphql`query
-//             allInstaNode {
-//               edges {
-//                 node {
-//                   id
-//                   likes
-//                   comments
-//                   mediaType
-//                   preview
-//                   original
-//                   timestamp
-//                   caption
-//                   localFile {
-//                     childImageSharp {
-//                       gatsbyImageData(width: 150, height: 150, layout: FIXED)
-//                     }
-//                   }
-//                   thumbnails {
-//                     src
-//                     config_width
-//                     config_height
-//                   }
-//                   dimensions {
-//                     height
-//                     width
-//                   }
-//                 }
-//   }
-// }
-// `}
-//         render={
-//             data => {
-//                 const edges = data.allInstaNode.edges;
-//                 return (
-//                     <div className="blog-post__instagram">
-//                         {edges.map((post, key) => <a className="instagram-post__item" href={`https://www.instagram.com/p/${post.node.id}/`} target="_blank" rel="noreferrer" key={key}><img src={post.node.thumbnails[1].src} /></a>)}
-//                     </div>
-//                 )
-//             }
-//         }
-//     />
-// );
+const InstagramPosts = props => {
+    const { limit = 32 } = props;
+    let instaPhotos = useInstagram();
+    instaPhotos = instaPhotos ? instaPhotos.slice(0, limit) : [];
+    const username  = instaPhotos?.[0]?.username;
+  
+    return (
+        instaPhotos.length > 0 ?
+            <div className="blog-post__instagram">
+                {instaPhotos.map((photo, key) => (
+                    <a className="instagram-post__item" href={`https://www.instagram.com/p/${photo.id}/`} target="_blank" rel="noreferrer" key={key}>
+                        <Image
+                            key={photo.id}
+                            fluid={photo.fluid}
+                            alt={photo.caption}
+                        />
+                    </a>
+                ))}
+                <a href={`https://instagram.com/${username}`}>
+                    See more on Instagram &rarr;
+                </a>
+        </div>
+        : null
+    );
+  };
+  
+export default InstagramPosts;

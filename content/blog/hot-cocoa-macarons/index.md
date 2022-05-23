@@ -9,9 +9,13 @@ tags: [macarons, chocolate, gluten free]
 
 ![Social View](./hot_cocoa_macarons-7.jpg)
 
+<div class="multi-picture multi-picture--2">
+
 ![Slice View](./hot_cocoa_macarons-14.jpg)
 
 ![Slice View](./hot_cocoa_macarons-11.jpg)
+
+</div>
 
 ![Slice View](./hot_cocoa_macarons-2.jpg)
 

@@ -8,7 +8,13 @@ tags: [bars, chocolate, gluten free]
 ------
 
 ![Side image of bars](./chai_brownies-1.jpg)
+
+<div class="multi-picture multi-picture--2">
+
 ![Side image of bars](./chai_brownies-9.jpg)
+
 ![Side image of bars](./chai_brownies-6.jpg)
+
+</div>
 
 Brownies!

@@ -19,13 +19,12 @@ The first month of the New Year has already flown by and it’s bitter cold here
 When i was approached by Muir Glen and The Feedfeed to develop a recipe for them using their organic canned tomatoes, I wanted to think outside the box. Wanting to stay true to my *mostly* dessert feed, a tomato jam immediately came to mind. Tomato jams are usually made with onions, cumin and other savory spices. They show up on cheese plates, as condiments for sandwiches, on top of eggs and in vinaigrettes.  I wanted to make a more complex, sweeter jam that could do double duty as a perfect addition to a cheese plate but not feel weird on top of a dessert. Mole is a traditional sauce used in Mexican cuisines. According to Wikipedia - the source of all knowledge - a mole sauce contains a fruit, chili pepper, nut, and such spices as black pepper, cinnamon, cumin, and chocolate.  I could work with that. As you can see in the final recipe below, my mole jam has a lot of that - cinnamon, dried fruit, almonds and cocoa. The results? A sweet, (but not too sweet!) dynamic, interesting jam with a slightly spicy aftertaste.  It tastes like a tomato jam, but it also doesn’t really taste a whole lot like what you would think tomatoes taste like.  But what do I put it on? 
 </div>
 
-<div class="image-halfsize-container">
-    <div class="image-halfsize">
-        <img src="./mole_cheesecake-27.jpg" />
-    </div>
-    <div class="image-halfsize">
-        <img src="./mole_cheesecake-16.jpg" />
-    </div>
+<div class="multi-picture multi-picture--2">
+
+![Side of Cheesecake with a slice taken out](./mole_cheesecake-27.jpg)
+
+![Closeup of Cheesecake](./mole_cheesecake-16.jpg)
+
 </div>
 
 <div class="body-text">

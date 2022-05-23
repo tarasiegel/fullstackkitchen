@@ -11,6 +11,12 @@ tags: [brownies, fruity, halvah, raspberries, pistachio]
 
 Here are some brownies.
 
-![Brownies with a bite](./raspberry_halvah_brownies-bite.jpg)
+<div class="multi-picture multi-picture--2">
+
+![Brownies with a bite](./raspberry_halvah_brownies-bite-side.jpg)
+
 ![Brownies overhead](./raspberry_halvah_brownies-overhead.jpg)
+
+</div>
+
 ![Brownies closeup](./raspberry_halvah_brownies-closeup.jpg)

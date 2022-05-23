@@ -56,7 +56,13 @@ function RecipeSEO({ data, image, name, keywords, date, description }) {
                         "recipeCategory": "Dessert",
                         "recipeCuisine": "Dessert",
                         "recipeIngredient": [${getIngredients(data.ingredients)}],
-                        "recipeInstructions": [${getInstructions(data.instructions)}]
+                        "recipeInstructions": [${getInstructions(data.instructions)}],
+                        "aggregateRating": null,
+                        "video": null,
+                        "nutrition": {
+                            "@type": "NutritionInformation",
+                            "calories": "${data.calories || '300'} calories"
+                        }
                     }`}</script>
                 </Helmet>
             )} }

@@ -199,11 +199,9 @@ a {
 
 .home-item__container {
     width: 100%;
-    display: inline-flex;
+    display: block;
     margin-top: 50px;
     position: relative;
-    flex-flow: column;
-    padding: 0 25px 150px;
 }
 
 .home-item {
@@ -216,7 +214,7 @@ a {
 }
 
 .home-item__image img {
-    top: 38% !important;
+    top: 36% !important;
     transform: translateY(-50%) !important;
 }
 
@@ -288,20 +286,18 @@ footer {
     margin-right: 0;
 }
 
-@media (min-width: 1280px) {
-    .header {
-        width: 70%;
-    }
-
-    .header__link-container {
-        right: 0px;
+@media (min-width: 500px) {
+    .home-item__image {
+        height: 85vw;
     }
 }
 
+
 @media (min-width: 767px) {
     .header {
-        max-width: 1280px;
-        width: 70%;
+        max-width: 1275px;
+        width: calc(100% - 100px);
+        margin: 0 50px;
     }
 
     #header-logo {
@@ -335,21 +331,25 @@ footer {
     }
 
     .home-item__container {
-        flex-flow: wrap;
-        padding: 0;
+        width: 100%;
+        display: grid;
+        margin-top: 50px;
+        position: relative;
+        padding: 0px 0px 150px;
+        gap: 25px;
+        grid-template-columns: 1fr 1fr 1fr;
     }
 
     .home-item {
-        width: 33.33%;
+        width: 100%;
     }
 
     .home-item__image {
         max-height: 500px;
-        height: 26vw;
+        height: 33vw;
     }
     
     .home-item__image img {
-        height: 25vw !important;
         top: 0 !important;
         transform: none !important;
     }
@@ -381,7 +381,7 @@ footer {
 
     .multi-picture--2 p {
         flex: 2 1;
-        max-height: 360px;
+        max-height: 390px;
         overflow-y: hidden;
     }
 
@@ -393,14 +393,6 @@ footer {
 }
 
 @media (min-width: 850px) {
-    .layout-container {
-        margin: 0 auto;
-        width: 70%;
-        max-width: 1280px;
-        padding: 0;
-        min-height: calc(100vh - 245px);
-    }
-
     .multi-picture--3 p {
         max-height: 242px;
     }
@@ -409,7 +401,7 @@ footer {
 @media (min-width: 1075px) {
 
     .multi-picture--2 p {
-        max-height: 450px;
+        max-height: 500px;
     }
 
     .multi-picture--3 p {
@@ -419,8 +411,31 @@ footer {
 
 @media (min-width: 1275px) {
 
+    .header {
+        width: 70%;
+        margin: 0 auto;
+    }
+
+    .header__link-container {
+        right: 0px;
+    }
+
+    .layout-container {
+        margin: 0 auto;
+        width: 70%;
+        max-width: 1280px;
+        padding: 0;
+        min-height: calc(100vh - 245px);
+    }
+
     .multi-picture--2 p {
         max-height: 100%;
+    }
+}
+
+@media (min-width: 1520px) {
+    .home-item__image {
+        height: 25vw;
     }
 }
 

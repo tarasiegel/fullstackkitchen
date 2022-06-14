@@ -2,6 +2,21 @@
     margin: 10px 0 40px;
 }
 
+.recipe-page__main-title {
+    text-transform: uppercase;
+    font-size: 32px;
+    line-height: 40px;
+    letter-spacing: 1.5px;
+    margin-top: 30px;
+    text-align: center;
+    text-decoration: underline;
+    color: #000;
+}
+
+.recipe-page__container {
+    margin-top: 15px;
+}
+
 .recipe-page__category {
     text-transform: uppercase;
     color: #a09097;
@@ -20,4 +35,11 @@
 }
 .recipe-page__title a {
     color: #000;
+}
+
+@media (min-width: 767px) {
+    .recipe-page__container {
+        margin-top: 25px;
+        column-count: 2;
+    }
 }

@@ -190,7 +190,7 @@ a {
 
 .body-text {
     max-width: 760px;
-    margin: 0 auto;
+    margin: 30px auto;
 }
 
 .blog-post--left a {
@@ -286,6 +286,10 @@ footer {
     margin-right: 0;
 }
 
+.multi-picture {
+    margin-top: 50px;
+}
+
 @media (min-width: 500px) {
     .home-item__image {
         height: 85vw;
@@ -377,6 +381,7 @@ footer {
         width: 100%;
         display: flex;
         margin-bottom: 20px;
+        margin-top: 0;
     }
 
     .multi-picture--2 p {
@@ -430,6 +435,10 @@ footer {
 
     .multi-picture--2 p {
         max-height: 100%;
+    }
+
+    .home-item__image {
+        height: 26vw;
     }
 }
 

@@ -57,6 +57,7 @@ const Recipes = ({data, location}) => {
   return (
     <Layout location={location} title={siteTitle}>
       <Seo title="Recipes" image="" />
+      <div className="recipe-page__main-title">Recipe Index</div>
       <div className="recipe-page__container">
           {getCategories(orderedPostMap)}
       </div>

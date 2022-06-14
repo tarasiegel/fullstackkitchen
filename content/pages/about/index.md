@@ -6,7 +6,7 @@ image: ./about-image.jpg
 tags: [about]
 ------
 
-**hi, Welcome to my little corner of the internet.  my name is tara.**
+**hi, Welcome to my little corner of the internet.  <br> my name is tara.**
 
 I have been a resident of New York City for the past eight years, currently living in Williamsburg, Brooklyn.  Before that, I spent the first eighteen years of my life in South Florida dealing with humidity.  Then I spent four in Philadelphia for college, where I discovered and honed my love of baking while procrastinating problem sets.  Many times I would be making muffins at midnight to break up the _all too frequent_ all-nighters I pulled.
 

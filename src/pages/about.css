@@ -54,15 +54,16 @@
     .about-container {
         width: 100%;
         display: inline-flex;
+        margin-top: 75px;
     }
     
     .about-container__image {
-        width: 50%;
+        width: 40%;
     }
     
     .about-container__text-container {
         margin-left: 5%;
-        width: 50%;
+        width: 60%;
     }
 
     .about-container__instagram .instagram-post__item {

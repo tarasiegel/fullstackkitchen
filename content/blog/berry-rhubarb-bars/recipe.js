@@ -21,10 +21,10 @@ const recipe = [{
                     text: "1/2 cup of shredded coconut",
                     reference: "coconut"
                 },{
-                    text: "1/2 tsp salt",
+                    text: "1/2 tsp salt",
                     reference: "salt"
                 },{
-                    text: "1/2 tsp cardamom",
+                    text: "1/2 tsp cardamom",
                     reference: "cardamom"
                 },{
                     text: "1 cup, 2 sticks of butter, melted",

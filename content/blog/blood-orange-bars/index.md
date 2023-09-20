@@ -1,11 +1,13 @@
 ---
+
 title: Blood Orange Bars
 description: Blood Orange and Lemon Bars with Shortbread crust
 date: '2019-02-10T23:46:37.121Z'
 image: ./blood_orange_bars.jpg
 category: bars
 tags: [bars, citrus, fruity]
-------
+
+---
 
 ![Blood Orange Bar](./blood_orange_bars.jpg)
 

@@ -290,6 +290,11 @@ footer {
     margin-top: 50px;
 }
 
+.hide-mobile,
+.hide-mobile-flex {
+    display: none;
+}
+
 @media (min-width: 500px) {
     .home-item__image {
         height: 85vw;
@@ -394,6 +399,14 @@ footer {
         flex: 3 1;
         max-height: 300px;
         overflow-y: hidden;
+    }
+
+    .hide-mobile-flex {
+        display: inline-flex;
+    }
+
+    .hide-mobile {
+        display: block;
     }
 }
 

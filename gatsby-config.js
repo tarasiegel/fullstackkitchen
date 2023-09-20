@@ -1,38 +1,38 @@
 module.exports = {
-  siteMetadata:  {
+  siteMetadata: {
     title: `Full Stack Kitchen`,
     author: {
       name: `Tara Siegel`,
-      summary: `who bakes, codes, and lives in Brooklyn.`,
+      summary: `who bakes, codes, and lives in Brooklyn.`
     },
-  description: `Full Stack Kitchen: Unique Dessert Recipes from an Engineer's Mind`,
-  siteUrl: `https://fullstackkitchen.com/`,
-  social: {
-    instagram: `taras.kitchen`,
+    description: `Full Stack Kitchen: Unique Dessert Recipes from an Engineer's Mind`,
+    siteUrl: `https://fullstackkitchen.com/`,
+    social: {
+      instagram: `taras.kitchen`
+    }
   },
-},
   plugins: [
     `gatsby-plugin-image`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/content/blog`,
-        name: `blog`,
-      },
+        name: `blog`
+      }
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/content/pages`,
-        name: `pages`,
-      },
+        name: `pages`
+      }
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/content/assets`,
-        name: `assets`,
-      },
+        name: `assets`
+      }
     },
     {
       resolve: `gatsby-transformer-remark`,
@@ -41,28 +41,28 @@ module.exports = {
           {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 1280,
-            },
+              maxWidth: 1280
+            }
           },
           {
             resolve: `gatsby-remark-responsive-iframe`,
             options: {
-              wrapperStyle: `margin-bottom: 1.0725rem`,
-            },
+              wrapperStyle: `margin-bottom: 1.0725rem`
+            }
           },
           `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
-          `gatsby-remark-smartypants`,
-        ],
-      },
+          `gatsby-remark-smartypants`
+        ]
+      }
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: `UA-38256341-2`,
-      },
+        trackingId: `UA-38256341-2`
+      }
     },
     {
       resolve: `gatsby-plugin-feed`,
@@ -88,9 +88,9 @@ module.exports = {
                   date: node.frontmatter.date,
                   url: site.siteMetadata.siteUrl + node.fields.slug,
                   guid: site.siteMetadata.siteUrl + node.fields.slug,
-                  custom_elements: [{ "content:encoded": node.html }],
-                })
-              })
+                  custom_elements: [{ 'content:encoded': node.html }]
+                });
+              });
             },
             query: `
               {
@@ -111,11 +111,11 @@ module.exports = {
                 }
               }
             `,
-            output: "/rss.xml",
-            title: "Full Stack Kitchen Feed"
-          },
-        ],
-      },
+            output: '/rss.xml',
+            title: 'Full Stack Kitchen Feed'
+          }
+        ]
+      }
     },
     {
       resolve: `gatsby-plugin-manifest`,
@@ -126,8 +126,8 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/fsk-icon.png`,
-      },
+        icon: `content/assets/fsk-icon.png`
+      }
     },
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-gatsby-cloud`,
@@ -135,14 +135,14 @@ module.exports = {
     {
       resolve: `gatsby-plugin-typography`,
       options: {
-        pathToConfigModule: `src/utils/typography`,
-      },
+        pathToConfigModule: `src/utils/typography`
+      }
     },
     {
       resolve: `gatsby-source-instagram`,
       options: {
-        username: `6885349594`,
-      },
-    },
-  ],
-}
+        username: `6885349594`
+      }
+    }
+  ]
+};

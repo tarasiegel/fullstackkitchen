@@ -1,13 +1,13 @@
-import * as React from "react";
-import { StaticQuery, graphql } from "gatsby";
-import { GatsbyImage } from "gatsby-plugin-image";
+import * as React from 'react';
+import { StaticQuery, graphql } from 'gatsby';
+import { GatsbyImage } from 'gatsby-plugin-image';
 
 function Bio() {
   return (
     <StaticQuery
       query={bioQuery}
       render={data => {
-        const { author, social } = data.site.siteMetadata
+        const { author, social } = data.site.siteMetadata;
         return (
           <div
             style={{
@@ -20,17 +20,17 @@ function Bio() {
               style={{
                 marginBottom: 0,
                 minWidth: 50,
-                borderRadius: `100%`,
+                borderRadius: `100%`
               }}
               imgStyle={{
-                borderRadius: `50%`,
-              }} />
+                borderRadius: `50%`
+              }}
+            />
             <p>
-              Written by <strong>{author.name}</strong> who lives and works in Brooklyn, NY building useful things.
+              Written by <strong>{author.name}</strong> who lives and works in Brooklyn, NY building
+              useful things.
               {` `}
-              <a href={`https://instagram.com/${social.instagram}`}>
-                Follow on instagram
-              </a>
+              <a href={`https://instagram.com/${social.instagram}`}>Follow on instagram</a>
             </p>
           </div>
         );
@@ -39,23 +39,24 @@ function Bio() {
   );
 }
 
-const bioQuery = graphql`query BioQuery {
-  avatar: file(absolutePath: {regex: "/profile-pic.jpg/"}) {
-    childImageSharp {
-      gatsbyImageData(width: 50, height: 50, layout: FIXED)
-    }
-  }
-  site {
-    siteMetadata {
-      author {
-        name
-      }
-      social {
-        instagram
+const bioQuery = graphql`
+  query BioQuery {
+    avatar: file(absolutePath: { regex: "/profile-pic.jpg/" }) {
+      childImageSharp {
+        gatsbyImageData(width: 50, height: 50, layout: FIXED)
       }
     }
+    site {
+      siteMetadata {
+        author {
+          name
+        }
+        social {
+          instagram
+        }
+      }
+    }
   }
-}
-`
+`;
 
-export default Bio
+export default Bio;

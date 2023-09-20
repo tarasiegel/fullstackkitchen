@@ -1,9 +1,406 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Full Stack Kitchen]]></title><description><![CDATA[Full Stack Kitchen: Unique Dessert Recipes from an Engineer's Mind]]></description><link>https://fullstackkitchen.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 04 Apr 2022 02:00:07 GMT</lastBuildDate><item><title><![CDATA[About]]></title><description><![CDATA[hi, Welcome to my little corner of the internet.  my name is tara. I have been a resident of New York City for the past five years…]]></description><link>https://fullstackkitchen.com/about/</link><guid isPermaLink="false">https://fullstackkitchen.com/about/</guid><content:encoded>&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;hi, Welcome to my little corner of the internet.  my name is tara.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;I have been a resident of New York City for the past five years, currently living in Williamsburg, Brooklyn.  Before that, I spent the first eighteen years of my life in South Florida dealing with humidity.  Then I spent four in Philadelphia for college, where I discovered and honed my love of baking while procrastinating problem sets.  Many times I would be making muffins at midnight to break up the &lt;em&gt;all too frequent&lt;/em&gt; all-nighters I pulled.&lt;/p&gt;
-&lt;p&gt;I studied Computer Science/Computer Graphics in school (+ a fine arts minor) and am currently a full time, full stack Software Engineer for a media company. Having an office to bring sweets to is key to maintaining a healthy lifestyle. To counteract what doesn’t make it into the office, I am constantly trying to find ways to be exercising.  I am an avid runner, biker (I stubbornly CitiBike to work most days), and walk everywhere.  Right now I’ve completed 6 half marathons and 1 century ride!&lt;/p&gt;
-&lt;p&gt;If we can get nerdy for a second, I am very proud of this website you see here. The “tech stack”, as one would say, is pretty cool.  I am using &lt;a href=&quot;https://reactjs.org/&quot;&gt;React&lt;/a&gt;, which is a component based Javascript library for building UI’s. That is wrapped in an instance of &lt;a href=&quot;https://www.gatsbyjs.org/&quot;&gt;GatsbyJs&lt;/a&gt;, which is a React-based, &lt;a href=&quot;https://graphql.org/&quot;&gt;GraphQL&lt;/a&gt; powered, static site generator (makes for better SEO and file hosting!).  All the posts are written in &lt;a href=&quot;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&quot;&gt;markdown&lt;/a&gt;, which is a lightweight markup language for text syntax.  Once I make updates and build it, it hooks into &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt; and automatically updates the site! &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Low Fat Banana Oat Muffins]]></title><link>https://fullstackkitchen.com/low-fat-banana-oat-muffins/</link><guid isPermaLink="false">https://fullstackkitchen.com/low-fat-banana-oat-muffins/</guid><pubDate>Tue, 21 Jan 2020 12:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Full Stack Kitchen Feed]]></title><description><![CDATA[Full Stack Kitchen: Unique Dessert Recipes from an Engineer's Mind]]></description><link>https://fullstackkitchen.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 20 Sep 2023 04:05:55 GMT</lastBuildDate><item><title><![CDATA[About]]></title><description><![CDATA[hi, Welcome to my little corner of the internet.  my name is tara. I have been a resident of New York City for the past eight years…]]></description><link>https://fullstackkitchen.com/about/</link><guid isPermaLink="false">https://fullstackkitchen.com/about/</guid><content:encoded>&lt;p&gt;&lt;strong&gt;hi, Welcome to my little corner of the internet. &lt;br&gt; my name is tara.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I have been a resident of New York City for the past eight years, currently living in Williamsburg, Brooklyn. Before that, I spent the first eighteen years of my life in South Florida dealing with humidity. Then I spent four in Philadelphia for college, where I discovered and honed my love of baking while procrastinating problem sets. Many times I would be making muffins at midnight to break up the &lt;em&gt;all too frequent&lt;/em&gt; all-nighters I pulled.&lt;/p&gt;
+&lt;p&gt;I studied Computer Science/Computer Graphics in school (+ a fine arts minor) and am currently a full time, full stack Senior Software Engineer for a media company. When I was going into an office, bringing sweets to coworkers was key to maintaining a healthy lifestyle. To counteract what didn’t make it into the office, I am constantly trying to find ways to be exercising. I am an avid biker, runner and walk everywhere. I’ve completed 7 half marathons and biked over 3000 miles last year!&lt;/p&gt;
+&lt;p&gt;If we can get nerdy for a second, I am very proud of this website you see here. The “tech stack”, as one would say, is pretty cool. I am using &lt;a href=&quot;https://reactjs.org/&quot;&gt;React&lt;/a&gt;, which is a component based Javascript library for building UI’s. That is wrapped in an instance of &lt;a href=&quot;https://www.gatsbyjs.org/&quot;&gt;GatsbyJs&lt;/a&gt;, which is a React-based, &lt;a href=&quot;https://graphql.org/&quot;&gt;GraphQL&lt;/a&gt; powered, static site generator (makes for better SEO and file hosting!). All the posts are written in &lt;a href=&quot;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&quot;&gt;markdown&lt;/a&gt;, which is a lightweight markup language for text syntax. Once I make updates and build it, it gets uploaded to gatsby cloud!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Oreo Pudding & Chocolate Ganache Pie]]></title><link>https://fullstackkitchen.com/oreo-pudding-ganache-pie/</link><guid isPermaLink="false">https://fullstackkitchen.com/oreo-pudding-ganache-pie/</guid><pubDate>Fri, 01 Sep 2023 12:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1280px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/6439b7bde679a153622180afd00f67bf/4542d/oreo_pudding_pie-7.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 125%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAZABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAwAFAgT/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/2gAMAwEAAhADEAAAAbsnKaKRzh08qvZHbn//xAAdEAACAQQDAAAAAAAAAAAAAAABAgMAESEyBBMx/9oACAEBAAEFAixBW70IMSHJmHWJ3tKpD3ZaXXk6Uvn/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAdEAACAQQDAAAAAAAAAAAAAAAAARESIDFRITKB/9oACAEBAAY/AuxDcrZlPwplEYaOKWOTdv8A/8QAHRAAAwACAgMAAAAAAAAAAAAAAAERITFhcRBRof/aAAgBAQABPyFn43bwbQ+Aao7jLVsrmKERcLFGKZHJYjVdT9i2Igyg2d+NJ//aAAwDAQACAAMAAAAQ4Cyx/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERECH/2gAIAQMBAT8Q5MrQz//EABgRAAMBAQAAAAAAAAAAAAAAAAABERAh/9oACAECAQE/EOkInn//xAAgEAEAAgEEAgMAAAAAAAAAAAABABEhMUFRcRDRYYGh/9oACAEBAAE/EL8CugxbFXz7hEydSabcMPKpikv23mNrR2N1E4EF1qz38wwiZsI9YgJa2xymiuTrGqOpdPjTefnn/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Top view of cake&quot;
+        title=&quot;Top view of cake&quot;
+        src=&quot;/static/6439b7bde679a153622180afd00f67bf/eea4a/oreo_pudding_pie-7.jpg&quot;
+        srcset=&quot;/static/6439b7bde679a153622180afd00f67bf/cb69c/oreo_pudding_pie-7.jpg 320w,
+/static/6439b7bde679a153622180afd00f67bf/c08c5/oreo_pudding_pie-7.jpg 640w,
+/static/6439b7bde679a153622180afd00f67bf/eea4a/oreo_pudding_pie-7.jpg 1280w,
+/static/6439b7bde679a153622180afd00f67bf/0f98f/oreo_pudding_pie-7.jpg 1920w,
+/static/6439b7bde679a153622180afd00f67bf/8ec0a/oreo_pudding_pie-7.jpg 2560w,
+/static/6439b7bde679a153622180afd00f67bf/4542d/oreo_pudding_pie-7.jpg 2711w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;div class=&quot;multi-picture multi-picture--2 hide-mobile-flex&quot;&gt;
 &lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1280px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/890c86f40cad2807587edf4855a8b038/19e39/oreo_pudding_pie-2.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 125%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAZABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAwL/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/2gAMAwEAAhADEAAAAdWZnJVYTEZZopTwubn/xAAfEAACAgEEAwAAAAAAAAAAAAABAgADEQQQEhMiMTL/2gAIAQEAAQUCNlmT2LAt0LeXYXg1DqHMzy2v+oPX/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAHhAAAgAGAwAAAAAAAAAAAAAAAAECERIhImEgMkH/2gAIAQEABj8CSquxVRqR2RilC9GbsvCSUMjfL//EAB4QAQACAQQDAAAAAAAAAAAAAAEAETEQIUFRYYGR/9oACAEBAAE/IQmKlBRCKtstVUpb+uADoHSKftsw6pwl3gQLOuZs8zJDS//aAAwDAQACAAMAAAAQs8lN/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERECH/2gAIAQMBAT8QSuJ8hD//xAAXEQADAQAAAAAAAAAAAAAAAAAAAREh/9oACAECAQE/EHUyMl0p/8QAHhABAAICAgMBAAAAAAAAAAAAAQARITFRYRBBkcH/2gAIAQEAAT8Qqs2FUxwwU0n87jSp4chPkz+NWm1XLA2qGth+lhRMZNjX2XhFTZCBxTZq+pZCYaw+LtNU/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Top view of cake&quot;
+        title=&quot;Top view of cake&quot;
+        src=&quot;/static/890c86f40cad2807587edf4855a8b038/eea4a/oreo_pudding_pie-2.jpg&quot;
+        srcset=&quot;/static/890c86f40cad2807587edf4855a8b038/cb69c/oreo_pudding_pie-2.jpg 320w,
+/static/890c86f40cad2807587edf4855a8b038/c08c5/oreo_pudding_pie-2.jpg 640w,
+/static/890c86f40cad2807587edf4855a8b038/eea4a/oreo_pudding_pie-2.jpg 1280w,
+/static/890c86f40cad2807587edf4855a8b038/0f98f/oreo_pudding_pie-2.jpg 1920w,
+/static/890c86f40cad2807587edf4855a8b038/8ec0a/oreo_pudding_pie-2.jpg 2560w,
+/static/890c86f40cad2807587edf4855a8b038/19e39/oreo_pudding_pie-2.jpg 2696w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1280px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a1a53aa481c0a1011e80ddacce6f8f2c/e1c42/oreo_pudding_pie.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 125%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAZABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQX/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/2gAMAwEAAhADEAAAAXu5byqiUrn5q0aBhl//xAAcEAABBAMBAAAAAAAAAAAAAAACAAEDERITITH/2gAIAQEAAQUC2SXcmGUid7PYdDKQs72/UxcL1D5//8QAFhEBAQEAAAAAAAAAAAAAAAAAABEQ/9oACAEDAQE/AUyv/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVyP/8QAHRAAAgEEAwAAAAAAAAAAAAAAAAEREBIgMTIzkf/aAAgBAQAGPwLSJtR1kI5rwhU3j//EAB4QAAMAAgEFAAAAAAAAAAAAAAABESFBIDFhcYGx/9oACAEBAAE/IZ9V6E6viTFLLIo4FNtlYhoVS2h2FncHqPnCf//aAAwDAQACAAMAAAAQQ8Bz/8QAFhEBAQEAAAAAAAAAAAAAAAAAEQAB/9oACAEDAQE/EBnOyv/EABgRAAMBAQAAAAAAAAAAAAAAAAABERBR/9oACAECAQE/EK1mIjh//8QAHxABAAMBAQABBQAAAAAAAAAAAQARITFRwUFxgZGh/9oACAEBAAE/EHAxej5jF16It/EbZbzvzEB6qFf32IrAdH6TemWtHXufSXQCnMqVhHPbhHBWYonf7w6TlP/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Top view of cake&quot;
+        title=&quot;Top view of cake&quot;
+        src=&quot;/static/a1a53aa481c0a1011e80ddacce6f8f2c/eea4a/oreo_pudding_pie.jpg&quot;
+        srcset=&quot;/static/a1a53aa481c0a1011e80ddacce6f8f2c/cb69c/oreo_pudding_pie.jpg 320w,
+/static/a1a53aa481c0a1011e80ddacce6f8f2c/c08c5/oreo_pudding_pie.jpg 640w,
+/static/a1a53aa481c0a1011e80ddacce6f8f2c/eea4a/oreo_pudding_pie.jpg 1280w,
+/static/a1a53aa481c0a1011e80ddacce6f8f2c/0f98f/oreo_pudding_pie.jpg 1920w,
+/static/a1a53aa481c0a1011e80ddacce6f8f2c/8ec0a/oreo_pudding_pie.jpg 2560w,
+/static/a1a53aa481c0a1011e80ddacce6f8f2c/e1c42/oreo_pudding_pie.jpg 2719w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1280px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/698122f8b1b1cbe6115be96aa8a694c4/9a537/oreo_pudding_pie-4.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 125%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAZABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMBBAUC/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgH/2gAMAwEAAhADEAAAAbFXlZWkLLKr16oSyBj/xAAbEAACAwEBAQAAAAAAAAAAAAABAgADERITM//aAAgBAQABBQK6zUTYfeMOW1TK3PNpLFKy4UBQsPzn/8QAGBEAAgMAAAAAAAAAAAAAAAAAABEBECL/2gAIAQMBAT8BQic1/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAEQESL/2gAIAQIBAT8BLFqP/8QAHxAAAQMDBQAAAAAAAAAAAAAAEQABIQIQMSBBUXGR/9oACAEBAAY/At2UVMfLCqrCJNpz2paeUG0f/8QAHBAAAgMBAAMAAAAAAAAAAAAAAREAITFBIFFh/9oACAEBAAE/IcdLWbCZvPRgOGa4p2Jh2I4GEIGoZEE0ACgKKHN8EYf3wH//2gAMAwEAAgADAAAAEIjizv/EABcRAAMBAAAAAAAAAAAAAAAAAAABEGH/2gAIAQMBAT8QwMLH/8QAGREAAgMBAAAAAAAAAAAAAAAAAAEQESFR/9oACAECAQE/EL6IPqP/xAAeEAEAAwEAAgMBAAAAAAAAAAABABEhMUFRcYGxwf/aAAgBAQABPxBxqtJQlIshBWqz3cuFwpuTBULuzh7CuxoKOC2G8qqqGlE4sBUU6B21qVCIlPgefmBa46vLOvv+T8CE/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Top view of cake&quot;
+        title=&quot;Top view of cake&quot;
+        src=&quot;/static/698122f8b1b1cbe6115be96aa8a694c4/eea4a/oreo_pudding_pie-4.jpg&quot;
+        srcset=&quot;/static/698122f8b1b1cbe6115be96aa8a694c4/cb69c/oreo_pudding_pie-4.jpg 320w,
+/static/698122f8b1b1cbe6115be96aa8a694c4/c08c5/oreo_pudding_pie-4.jpg 640w,
+/static/698122f8b1b1cbe6115be96aa8a694c4/eea4a/oreo_pudding_pie-4.jpg 1280w,
+/static/698122f8b1b1cbe6115be96aa8a694c4/0f98f/oreo_pudding_pie-4.jpg 1920w,
+/static/698122f8b1b1cbe6115be96aa8a694c4/8ec0a/oreo_pudding_pie-4.jpg 2560w,
+/static/698122f8b1b1cbe6115be96aa8a694c4/9a537/oreo_pudding_pie-4.jpg 2668w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;div class=&quot;multi-picture multi-picture--2 hide-mobile-flex&quot;&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1280px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/76b67b88164ebef0a84f3f4930c2faa8/9568a/oreo_pie_step1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 121.25000000000001%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAYABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQFAv/EABYBAQEBAAAAAAAAAAAAAAAAAAECA//aAAwDAQACEAMQAAABqhcxpayjOvmg3Bn/xAAdEAABAwUBAAAAAAAAAAAAAAADAAIhAQQREhMz/9oACAEBAAEFAjG0XQiZcwb2yny44dlzJWrLWP/EABYRAQEBAAAAAAAAAAAAAAAAAAAREP/aAAgBAwEBPwHKr//EABYRAAMAAAAAAAAAAAAAAAAAAAAQEf/aAAgBAgEBPwEj/8QAHBAAAgICAwAAAAAAAAAAAAAAADEBEQIQEiEi/9oACAEBAAY/AqhjPTMt8oZVHcn/xAAbEAADAAIDAAAAAAAAAAAAAAAAAREQITFRYf/aAAgBAQABPyEmT9owmQ3N3oSU2IOfCA9Mf//aAAwDAQACAAMAAAAQRPcD/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQARIVH/2gAIAQMBAT8QAC55Cy1f/8QAGBEBAQADAAAAAAAAAAAAAAAAAAERIXH/2gAIAQIBAT8QjpJth//EABsQAQADAQEBAQAAAAAAAAAAAAEAESExQVFh/9oACAEBAAE/EHWKzfyL1M8fZQgDjsoJbq3yczCUQVOZAQ4OQAzrqTKoNup//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Top view of cake&quot;
+        title=&quot;Top view of cake&quot;
+        src=&quot;/static/76b67b88164ebef0a84f3f4930c2faa8/eea4a/oreo_pie_step1.jpg&quot;
+        srcset=&quot;/static/76b67b88164ebef0a84f3f4930c2faa8/cb69c/oreo_pie_step1.jpg 320w,
+/static/76b67b88164ebef0a84f3f4930c2faa8/c08c5/oreo_pie_step1.jpg 640w,
+/static/76b67b88164ebef0a84f3f4930c2faa8/eea4a/oreo_pie_step1.jpg 1280w,
+/static/76b67b88164ebef0a84f3f4930c2faa8/0f98f/oreo_pie_step1.jpg 1920w,
+/static/76b67b88164ebef0a84f3f4930c2faa8/8ec0a/oreo_pie_step1.jpg 2560w,
+/static/76b67b88164ebef0a84f3f4930c2faa8/9568a/oreo_pie_step1.jpg 3024w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1280px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/9801cbea2dde58ecab3c1a82a87987f2/9568a/oreo_pie_step2.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 121.25000000000001%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAYABQDASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAAAAMEAQIF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAbkcOsvSVyZhC6D/xAAbEAEAAgMBAQAAAAAAAAAAAAABAgMAEhMyEf/aAAgBAQABBQKdmr2lg/R9ZT5sq2eU1Aif/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAHBAAAgICAwAAAAAAAAAAAAAAAAECESGBEDFx/9oACAEBAAY/AqWWZitFol7xsuPZlpFH/8QAGxAAAgIDAQAAAAAAAAAAAAAAAAERMSFBYbH/2gAIAQEAAT8hVBAkaHWRSmYZvWJLYqUDJKPQsZHLFBKR/9oADAMBAAIAAwAAABBH6ED/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREQ/9oACAEDAQE/EIMrz//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/EKQ//8QAHBABAAICAwEAAAAAAAAAAAAAAQARITFBcYGR/9oACAEBAAE/ENADaXQdwcGc3A+7gskLGWXsWX1WJbWZYLR4JqP6RMCGDkbl4gl0GJ//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Top view of cake&quot;
+        title=&quot;Top view of cake&quot;
+        src=&quot;/static/9801cbea2dde58ecab3c1a82a87987f2/eea4a/oreo_pie_step2.jpg&quot;
+        srcset=&quot;/static/9801cbea2dde58ecab3c1a82a87987f2/cb69c/oreo_pie_step2.jpg 320w,
+/static/9801cbea2dde58ecab3c1a82a87987f2/c08c5/oreo_pie_step2.jpg 640w,
+/static/9801cbea2dde58ecab3c1a82a87987f2/eea4a/oreo_pie_step2.jpg 1280w,
+/static/9801cbea2dde58ecab3c1a82a87987f2/0f98f/oreo_pie_step2.jpg 1920w,
+/static/9801cbea2dde58ecab3c1a82a87987f2/8ec0a/oreo_pie_step2.jpg 2560w,
+/static/9801cbea2dde58ecab3c1a82a87987f2/9568a/oreo_pie_step2.jpg 3024w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1280px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/d6a3c01fd000b66836fbdadca6903b1a/9568a/oreo_pie_full.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 111.87500000000001%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAWABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIDBP/EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAHp5cjbIJnIMiP/xAAbEAADAQEAAwAAAAAAAAAAAAAAAQIREgMhIv/aAAgBAQABBQK/Jh0mdXI9on2L6mskeKd0/8QAFhEBAQEAAAAAAAAAAAAAAAAAEAER/9oACAEDAQE/AcIf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAHhAAAQMEAwAAAAAAAAAAAAAAAQARIQISMWEQMoH/2gAIAQEABj8Cy212Pqa5Uhnh1ABiHQuRoOAhrHH/xAAaEAEAAwEBAQAAAAAAAAAAAAABABEhMUFR/9oACAEBAAE/IdAAHVLxmvH1FmhUOEClbUakVKXeQC8NfZcCqdJSVU8Co90n/9oADAMBAAIAAwAAABBgwEP/xAAXEQEBAQEAAAAAAAAAAAAAAAABABAh/9oACAEDAQE/ECJLmf/EABgRAQADAQAAAAAAAAAAAAAAAAEAEBEh/9oACAECAQE/ENg7E7X/xAAdEAEAAwACAwEAAAAAAAAAAAABABEhMUFRkaHw/9oACAEBAAE/EOpS7qfAdsbZu8J6OEUNXRR+x884OtW2/Ua1zjUrdZvi8wlQ+frYLUKaSCaX+0jR1tAW823LlPCgGgOgn//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Top view of cake&quot;
+        title=&quot;Top view of cake&quot;
+        src=&quot;/static/d6a3c01fd000b66836fbdadca6903b1a/eea4a/oreo_pie_full.jpg&quot;
+        srcset=&quot;/static/d6a3c01fd000b66836fbdadca6903b1a/cb69c/oreo_pie_full.jpg 320w,
+/static/d6a3c01fd000b66836fbdadca6903b1a/c08c5/oreo_pie_full.jpg 640w,
+/static/d6a3c01fd000b66836fbdadca6903b1a/eea4a/oreo_pie_full.jpg 1280w,
+/static/d6a3c01fd000b66836fbdadca6903b1a/0f98f/oreo_pie_full.jpg 1920w,
+/static/d6a3c01fd000b66836fbdadca6903b1a/8ec0a/oreo_pie_full.jpg 2560w,
+/static/d6a3c01fd000b66836fbdadca6903b1a/9568a/oreo_pie_full.jpg 3024w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Blood Orange Key Lime Pie]]></title><description><![CDATA[Blood Orange Pie  Blood! Orange! Key Lime Pie!]]></description><link>https://fullstackkitchen.com/blood-orange-key-lime-pie/</link><guid isPermaLink="false">https://fullstackkitchen.com/blood-orange-key-lime-pie/</guid><pubDate>Sun, 22 May 2022 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;/710f0ab89d7688f13d2420628b69b585/blood_orange_pie_1.jpg&quot; alt=&quot;Blood Orange Pie&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1280px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/d289855e150986b993801b3537e8e70b/9568a/blood_orange_pie_3.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.4375%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgUD/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//aAAwDAQACEAMQAAABrxvEbsjACD2VtNUJFP8A/8QAGxAAAwADAQEAAAAAAAAAAAAAAQIDABITETP/2gAIAQEAAQUC2arFvGUz16GZ0NMmgVCq2oic1yX3OHP/xAAYEQADAQEAAAAAAAAAAAAAAAAAARECEP/aAAgBAwEBPwFZhRvn/8QAGREAAQUAAAAAAAAAAAAAAAAAAAEQESFR/9oACAECAQE/AY0oVv/EAB0QAAICAgMBAAAAAAAAAAAAAAABAhEQEiExYaH/2gAIAQEABj8CqKOOROjWHS+m0emJMuDrxlYWf//EAB4QAQACAgIDAQAAAAAAAAAAAAEAESExEEFRYXGR/9oACAEBAAE/IegnmO4KDWe4pG/uLtIubIq47PxmdpJkgOw4nca/XhtP/9oADAMBAAIAAwAAABCrCUH/xAAZEQEAAgMAAAAAAAAAAAAAAAABACEQEVH/2gAIAQMBAT8QI1U15ETH/8QAGREAAgMBAAAAAAAAAAAAAAAAESEAARBR/9oACAECAQE/EKJvBxEsZ//EAB4QAQACAgIDAQAAAAAAAAAAAAEAESExQZFRcaHR/9oACAEBAAE/EFPCYU7PLBHWRSFN4NFwsNm0Vh0nZBmqzsUbe4PgEWXyZ9kJAuW0cscvvu0fJ+TD0VVW+WLxsx7jku1fUB9hOHE//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Blood Orange Pie&quot;
+        title=&quot;Blood Orange Pie&quot;
+        src=&quot;/static/d289855e150986b993801b3537e8e70b/eea4a/blood_orange_pie_3.jpg&quot;
+        srcset=&quot;/static/d289855e150986b993801b3537e8e70b/cb69c/blood_orange_pie_3.jpg 320w,
+/static/d289855e150986b993801b3537e8e70b/c08c5/blood_orange_pie_3.jpg 640w,
+/static/d289855e150986b993801b3537e8e70b/eea4a/blood_orange_pie_3.jpg 1280w,
+/static/d289855e150986b993801b3537e8e70b/0f98f/blood_orange_pie_3.jpg 1920w,
+/static/d289855e150986b993801b3537e8e70b/8ec0a/blood_orange_pie_3.jpg 2560w,
+/static/d289855e150986b993801b3537e8e70b/9568a/blood_orange_pie_3.jpg 3024w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Blood! Orange! Key Lime Pie!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Raspberry Pistachio Halvah Brownies]]></title><description><![CDATA[Here are some brownies.]]></description><link>https://fullstackkitchen.com/raspberry-pistachio-halvah-brownies/</link><guid isPermaLink="false">https://fullstackkitchen.com/raspberry-pistachio-halvah-brownies/</guid><pubDate>Mon, 11 Apr 2022 12:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1280px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/5224f70c8ed0ff3d9770b6ba406acfbf/8b3ab/raspberry_halvah_brownies-stack.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 140%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAcABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAgQD/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAF7HFcNyAx4m1c6XG0s/8QAGxAAAQUBAQAAAAAAAAAAAAAAAQACAwQREhD/2gAIAQEAAQUC9fJyK9g9p9cOeKZ0RyNWohav/8QAFhEBAQEAAAAAAAAAAAAAAAAAEQAQ/9oACAEDAQE/ATGb/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAHBAAAQQDAQAAAAAAAAAAAAAAAQACEBEDEiEx/9oACAEBAAY/ApPERkdyLtHZwVDIJ8X/xAAcEAEAAwACAwAAAAAAAAAAAAABABEhEDFBUWH/2gAIAQEAAT8h52awyokPQsWCIIiMFdXffmHam+jYPj/Yq6gVMZSf/9oADAMBAAIAAwAAABCEJ4z/xAAWEQEBAQAAAAAAAAAAAAAAAAABEBH/2gAIAQMBAT8Q1FR//8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREP/aAAgBAgEBPxCrEiH/xAAfEAEAAgIBBQEAAAAAAAAAAAABABEhQTEQUWFxkdH/2gAIAQEAAT8QYvQ3hWUhv8gv6QAzZRfqH3CxHkhI20sXpjYRMs83AbvDpjbNb2X6Ri04gAZrtdEQ6U+Sf//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Stack of brownies&quot;
+        title=&quot;Stack of brownies&quot;
+        src=&quot;/static/5224f70c8ed0ff3d9770b6ba406acfbf/eea4a/raspberry_halvah_brownies-stack.jpg&quot;
+        srcset=&quot;/static/5224f70c8ed0ff3d9770b6ba406acfbf/cb69c/raspberry_halvah_brownies-stack.jpg 320w,
+/static/5224f70c8ed0ff3d9770b6ba406acfbf/c08c5/raspberry_halvah_brownies-stack.jpg 640w,
+/static/5224f70c8ed0ff3d9770b6ba406acfbf/eea4a/raspberry_halvah_brownies-stack.jpg 1280w,
+/static/5224f70c8ed0ff3d9770b6ba406acfbf/0f98f/raspberry_halvah_brownies-stack.jpg 1920w,
+/static/5224f70c8ed0ff3d9770b6ba406acfbf/8b3ab/raspberry_halvah_brownies-stack.jpg 2390w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Here are some brownies.&lt;/p&gt;
+&lt;div class=&quot;multi-picture multi-picture--2&quot;&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1280px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/da30c0f6b8e176789ccb524d9a6977ae/dec92/raspberry_halvah_brownies-bite-side.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 123.75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAZABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgb/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAbWVJg2Dnyr67msqI4J//8QAHBAAAgMAAwEAAAAAAAAAAAAAAQIAAxIRExQx/9oACAEBAAEFAmYLNrx3VSwtnTOcOZbWts8wE8dcMEP3/8QAFhEBAQEAAAAAAAAAAAAAAAAAEQAQ/9oACAEDAQE/ASN//8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8Bqqr/xAAeEAACAQMFAAAAAAAAAAAAAAAAAREhMTISIFGRwf/aAAgBAQAGPwKpMmaH6cJF12LU4aM6RBd7P//EABwQAAIDAQADAAAAAAAAAAAAAAABETFBgRCR8f/aAAgBAQABPyHdcUmBjxazU1GJrGwaUW5sbUv0jnUCeu6B9cyVLT//2gAMAwEAAgADAAAAELQNAf/EABcRAAMBAAAAAAAAAAAAAAAAAAAQESH/2gAIAQMBAT8QRMIf/8QAFREBAQAAAAAAAAAAAAAAAAAAEDH/2gAIAQIBAT8QCh//xAAgEAEAAgICAQUAAAAAAAAAAAABABEhMUGxgVFhcaHR/9oACAEBAAE/EAhOerekdJ0XLWt4nNs94PUEKB9VXGF3BkEvUcXTlhgSdBRi/mFQsFgc7YKYXw/J0TV4n3Z//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Brownies with a bite&quot;
+        title=&quot;Brownies with a bite&quot;
+        src=&quot;/static/da30c0f6b8e176789ccb524d9a6977ae/eea4a/raspberry_halvah_brownies-bite-side.jpg&quot;
+        srcset=&quot;/static/da30c0f6b8e176789ccb524d9a6977ae/cb69c/raspberry_halvah_brownies-bite-side.jpg 320w,
+/static/da30c0f6b8e176789ccb524d9a6977ae/c08c5/raspberry_halvah_brownies-bite-side.jpg 640w,
+/static/da30c0f6b8e176789ccb524d9a6977ae/eea4a/raspberry_halvah_brownies-bite-side.jpg 1280w,
+/static/da30c0f6b8e176789ccb524d9a6977ae/0f98f/raspberry_halvah_brownies-bite-side.jpg 1920w,
+/static/da30c0f6b8e176789ccb524d9a6977ae/8ec0a/raspberry_halvah_brownies-bite-side.jpg 2560w,
+/static/da30c0f6b8e176789ccb524d9a6977ae/dec92/raspberry_halvah_brownies-bite-side.jpg 2727w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1280px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/f75170f86b253878740aa4b602d79372/d5e1a/raspberry_halvah_brownies-overhead.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 125%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAZABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgP/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQIE/9oADAMBAAIQAxAAAAHkyk5NOGwU6lMwU4Tx6P/EABwQAAMAAgMBAAAAAAAAAAAAAAECAwASERMzMv/aAAgBAQABBQJDQkJFwBriK2BesptxIoaCqsi1imQ8pec/j//EABgRAAIDAAAAAAAAAAAAAAAAAAABEBNh/9oACAEDAQE/AYaKtP/EABURAQEAAAAAAAAAAAAAAAAAABAB/9oACAECAQE/ASH/xAAeEAACAgICAwAAAAAAAAAAAAAAAQIREiEQMUFhcf/aAAgBAQAGPwJ142KTk9lLIddFVt9M3OvRKTi2jRWUmSJ/Hx//xAAdEAEAAwADAAMAAAAAAAAAAAABABEhMUFhUaHw/9oACAEBAAE/ITH2EGKRVRLtQe62bLFG+S4fQ6EhNRV6C6nwgCGXL8nc4qFvP2tXPtz8nycU/9oADAMBAAIAAwAAABDUMr3/xAAaEQACAgMAAAAAAAAAAAAAAAAAARARITFB/9oACAEDAQE/EHqOpV5sf//EABoRAQABBQAAAAAAAAAAAAAAAAEAEBEhMYH/2gAIAQIBAT8QG2Sdi2U//8QAHhABAAICAgMBAAAAAAAAAAAAAQARITFBYVFx8KH/2gAIAQEAAT8Qv/pKEy223C+qRbzzxruecsEPYo1E6ajIDGXqKU4Kd+JfCvMVlKwZ7q2LS27GjZyQZgCHJjb1UCzL2Vl7rM+X1PqeI/Sz/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Brownies overhead&quot;
+        title=&quot;Brownies overhead&quot;
+        src=&quot;/static/f75170f86b253878740aa4b602d79372/eea4a/raspberry_halvah_brownies-overhead.jpg&quot;
+        srcset=&quot;/static/f75170f86b253878740aa4b602d79372/cb69c/raspberry_halvah_brownies-overhead.jpg 320w,
+/static/f75170f86b253878740aa4b602d79372/c08c5/raspberry_halvah_brownies-overhead.jpg 640w,
+/static/f75170f86b253878740aa4b602d79372/eea4a/raspberry_halvah_brownies-overhead.jpg 1280w,
+/static/f75170f86b253878740aa4b602d79372/0f98f/raspberry_halvah_brownies-overhead.jpg 1920w,
+/static/f75170f86b253878740aa4b602d79372/d5e1a/raspberry_halvah_brownies-overhead.jpg 2135w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1280px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/815b1ad0ee2d86740f917fc8d60d395e/27c43/raspberry_halvah_brownies-closeup.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 140%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAcABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMCBAUB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAZKZmrqnCFKnWrWKhH//xAAdEAACAgIDAQAAAAAAAAAAAAABAgARAxIEIjIx/9oACAEBAAEFAsgqFOg2rkXrksBU3XL7fF2oz1PsRmI//8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAHhAAAwACAQUAAAAAAAAAAAAAAAERAjFBAzJRgZH/2gAIAQEABj8C6c3Szk1TCeeD2JiTso1kd2S+EZvg2f/EAB0QAQADAAIDAQAAAAAAAAAAAAEAESExUUFhcYH/2gAIAQEAAT8hpj9XyPeraBfEoHL6YlgtrcI2omtly5nbLLVWLYl5o2J5gm/FUbouoqqU8pqX1P/aAAwDAQACAAMAAAAQg+H+/8QAFREBAQAAAAAAAAAAAAAAAAAAEAH/2gAIAQMBAT8QIf/EABgRAAIDAAAAAAAAAAAAAAAAAAABEBEx/9oACAECAQE/EFk0f//EAB8QAQACAgICAwAAAAAAAAAAAAERIQAxQVFhcZGhsf/aAAgBAQABPxAJfagIrt+eMmJhn2cxPzxiPZBbADMRfr7ytRLCEDRO7HNlwiW8QIThC2vThgNO0LFYlKl5pW+sFkPhBXqKxsWKEhxrjy43MSMukKyXMRhINFdZ/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Brownies closeup&quot;
+        title=&quot;Brownies closeup&quot;
+        src=&quot;/static/815b1ad0ee2d86740f917fc8d60d395e/eea4a/raspberry_halvah_brownies-closeup.jpg&quot;
+        srcset=&quot;/static/815b1ad0ee2d86740f917fc8d60d395e/cb69c/raspberry_halvah_brownies-closeup.jpg 320w,
+/static/815b1ad0ee2d86740f917fc8d60d395e/c08c5/raspberry_halvah_brownies-closeup.jpg 640w,
+/static/815b1ad0ee2d86740f917fc8d60d395e/eea4a/raspberry_halvah_brownies-closeup.jpg 1280w,
+/static/815b1ad0ee2d86740f917fc8d60d395e/0f98f/raspberry_halvah_brownies-closeup.jpg 1920w,
+/static/815b1ad0ee2d86740f917fc8d60d395e/27c43/raspberry_halvah_brownies-closeup.jpg 2527w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Low Fat Banana Oat Muffins]]></title><link>https://fullstackkitchen.com/low-fat-banana-oat-muffins/</link><guid isPermaLink="false">https://fullstackkitchen.com/low-fat-banana-oat-muffins/</guid><pubDate>Tue, 21 Jan 2020 12:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1280px; &quot;
     &gt;
@@ -16,7 +413,7 @@
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 132.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAaABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAADBf/EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//aAAwDAQACEAMQAAABcdGWbdFmNRdY5VUp/8QAHBAAAQQDAQAAAAAAAAAAAAAAAgEDERIAITFB/9oACAEBAAEFAnKo5q4lIvzeCxLY6EqMGYjVPOKXf//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAEDAQE/ASDP/8QAGBEAAgMAAAAAAAAAAAAAAAAAARACITH/2gAIAQIBAT8BOoxtf//EAB0QAAICAgMBAAAAAAAAAAAAAAABETESIQIgYYH/2gAIAQEABj8CW9mWVeEihfR6RcC5TQ76/wD/xAAbEAEAAwEBAQEAAAAAAAAAAAABABEhMVFxof/aAAgBAQABPyHcU9sOrWEKXDL1AiK/xNc3mTLb/AuNYQ6qcRICDHr5AsrIZ//aAAwDAQACAAMAAAAQl9+M/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQAxEf/aAAgBAwEBPxAHJ2ULb//EABcRAQEBAQAAAAAAAAAAAAAAAAEAMSH/2gAIAQIBAT8QTDIGZwv/xAAdEAEBAAMBAAMBAAAAAAAAAAABEQAhMUFRYYHw/9oACAEBAAE/EEMiggL+ZSom0G29v9MBXjnxiKcFiuBD1eIB/PcJ1PYYfvCTwrpxwVEYnDXpl8g7qm8NF+WBDKlmrgXo4Z//2Q==&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 132.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAaABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEBQH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQP/2gAMAwEAAhADEAAAAb53KzegSjDI9WYroCn/xAAdEAACAQQDAAAAAAAAAAAAAAABAhEAAxIxEzJC/9oACAEBAAEFArkcntWkX+8Glyi6pJUh3VcQdDbb/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8BIM//xAAXEQEBAQEAAAAAAAAAAAAAAAABECEx/9oACAECAQE/AXsTZ//EAB4QAAIBBAMBAAAAAAAAAAAAAAABEQIQEiEiMUFR/9oACAEBAAY/Aly2ZZddwSKFv6PgeUiqmB7d3b//xAAfEAADAAEDBQAAAAAAAAAAAAAAAREhEDFBUWFxocH/2gAIAQEAAT8hjTqxifEWxKyIWnInOgqyi+kPQlFgkt4QAcbb3NzwKlDGn//aAAwDAQACAAMAAAAQMzmA/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERMf/aAAgBAwEBPxBFB6Mhp//EABcRAQEBAQAAAAAAAAAAAAAAAAABMSH/2gAIAQIBAT8QqkxEzj//xAAfEAEAAwEAAAcAAAAAAAAAAAABABEhMUFRgcHR8PH/2gAIAQEAAT8QNIGAuZ+xjniFbV8fuRbMFkZqUCltekQdBoV7oqwt1faeTWdr8wJSI0nOeMAOnbVuQCKWW7KllquirhM0YE//2Q==&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
@@ -32,6 +429,7 @@
         sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;
@@ -48,7 +446,7 @@
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 146.875%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAdABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIEA//EABcBAQEBAQAAAAAAAAAAAAAAAAACAQP/2gAMAwEAAhADEAAAAdFRHO7ArpezlaB//8QAGxABAQACAwEAAAAAAAAAAAAAAgEDEQASEyL/2gAIAQEAAQUCDnmFOzekB8YjdvHul24cdtTt7wzXlDzyl5//xAAWEQEBAQAAAAAAAAAAAAAAAAAAEiH/2gAIAQMBAT8Bxilv/8QAFxEBAQEBAAAAAAAAAAAAAAAAABIhQf/aAAgBAgEBPwHWp6h//8QAGxAAAgMAAwAAAAAAAAAAAAAAABEBECECMVH/2gAIAQEABj8CEJE5PHSXCp+VJ0ZX/8QAHBABAAMBAQADAAAAAAAAAAAAAQARIUExYYGR/9oACAEBAAE/IaOtBrYqgq4SgZATPYJtinjAvbudoVX1POZ2dx+QCxksqudipfmf/9oADAMBAAIAAwAAABBwA8P/xAAXEQEBAQEAAAAAAAAAAAAAAAABEQAh/9oACAEDAQE/ELDhjHCYjk3/xAAXEQEBAQEAAAAAAAAAAAAAAAABEQAh/9oACAECAQE/EJZkrPZWbbd//8QAGxABAQEBAQEBAQAAAAAAAAAAAREAITFxQfH/2gAIAQEAAT8QEDoD1w/uDQuOHLkwfCr+7zF6ffNauWcp90XqAXy6ELZM7xy42/RiAhLyUTQoIhCZ9hxQU1EI0PXsd//Z&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 146.875%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAdABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIDBP/EABcBAQEBAQAAAAAAAAAAAAAAAAACAQP/2gAMAwEAAhADEAAAAeiojndgVpezytx//8QAGxAAAgIDAQAAAAAAAAAAAAAAAQIDEQASEyL/2gAIAQEAAQUCRxzRhs70yJ4iU28dlXPGMks5O4UVy1wxg5//xAAWEQEBAQAAAAAAAAAAAAAAAAAAEiH/2gAIAQMBAT8Bxilv/8QAGBEBAAMBAAAAAAAAAAAAAAAAABITIUH/2gAIAQIBAT8B1qPVb//EABoQAAMAAwEAAAAAAAAAAAAAAAABEQIQITH/2gAIAQEABj8C4Qg+PHo6pq6Z4Va//8QAHRABAAIDAAMBAAAAAAAAAAAAAQARITFBUWGBkf/aAAgBAQABPyH04aisFXCUBjzLDNwTNqmmBejcb0Rr5Ndx2G2fkCsMSmZzsUu2f//aAAwDAQACAAMAAAAQcALD/8QAFxEBAQEBAAAAAAAAAAAAAAAAAREAIf/aAAgBAwEBPxCw4YxwmI5N/8QAFxEBAQEBAAAAAAAAAAAAAAAAAREAIf/aAAgBAgEBPxCWZKz2Vmm3f//EABwQAQEAAwEAAwAAAAAAAAAAAAERACExUXGx8P/aAAgBAQABPxAAFUC70YCENNELjKfC+sPhOnvM3VLNUyryAXlzZjbM3pq4afkH73DBkupRMg4A4UyppooKfeLYGo7fc//Z&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
@@ -64,6 +462,7 @@
         sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;
@@ -80,7 +479,7 @@
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 137.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAcABQDASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAAAAUBAgQD/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAb2ZSKqJgXnomulwE//EABwQAAIBBQEAAAAAAAAAAAAAAAECAAMQERIiMv/aAAgBAQABBQK2RFLFgesQsiBdDBo0XxTUb1D3/8QAFxEBAQEBAAAAAAAAAAAAAAAAABIhMf/aAAgBAwEBPwGUONf/xAAYEQEBAAMAAAAAAAAAAAAAAAAAEgEhMf/aAAgBAgEBPwG1u5af/8QAHRABAAEDBQAAAAAAAAAAAAAAADEBERICEDJBsf/aAAgBAQAGPwLaWaUrL2lxqy7q1eKv/8QAHxAAAgICAQUAAAAAAAAAAAAAAAERITFRYRBBcZHB/9oACAEBAAE/IenA9jJKl32XZzOarwyOxVTlDYiJUGD6AeY7SvQYH//aAAwDAQACAAMAAAAQpB2C/8QAGBEBAAMBAAAAAAAAAAAAAAAAAAERcVH/2gAIAQMBAT8Q20moK6f/xAAYEQEAAwEAAAAAAAAAAAAAAAAAARFxQf/aAAgBAgEBPxDDKLF9Q//EAB0QAQADAQADAQEAAAAAAAAAAAEAESExQVFhgbH/2gAIAQEAAT8QA/YUqCZOng+Jn3YCc8ORThlG8v7LW3I1QORe7dVT6nRwdxV1+StwMN0IeTeQmwLNo/ksKAWOlepNQ3vtn//Z&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 137.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAcABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAgQD/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgH/2gAMAwEAAhADEAAAAX0qoCaiwlOdArQYSn//xAAcEAACAQUBAAAAAAAAAAAAAAABAgADEBESIjL/2gAIAQEAAQUCtkRSxYHrELIgXQwaNF8U1G9Q9//EABcRAQEBAQAAAAAAAAAAAAAAAAASITH/2gAIAQMBAT8BlDjX/8QAGBEBAAMBAAAAAAAAAAAAAAAAAAEREjH/2gAIAQIBAT8B227K4f/EAB0QAAEEAgMAAAAAAAAAAAAAAAABEBExAhIyQbH/2gAIAQEABj8CazcssgmLOKm3amXjf//EAB8QAAICAgEFAAAAAAAAAAAAAAABESExUUEQYXGRwf/aAAgBAQABPyHp2HsdJUudnNzM7VeGR2KqcobIEqLB9QNMdpXoPkf/2gAMAwEAAgADAAAAELQds//EABgRAAMBAQAAAAAAAAAAAAAAAAABEXFB/9oACAEDAQE/ENmhxCcM/8QAGhEBAAEFAAAAAAAAAAAAAAAAAAERIUFRcf/aAAgBAgEBPxDhbhFRsh//xAAcEAEAAwEAAwEAAAAAAAAAAAABABEhMUFRgWH/2gAIAQEAAT8QAhSoJk3Tj+JjHYCc8ORRcSjeXFWKnABz3F7t1VPqdFB3FXXyHCLDdCHreQgKCzaLlxASx0r1IG1v6z//2Q==&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
@@ -96,10 +495,10 @@
         sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
       /&gt;
   &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Rolled Rug Raspberry Peach Cake]]></title><description><![CDATA[I’m a big fan of the show You on Netflix when it originally came out. When Netflix reached out to me to make a cake inspired by the show for…]]></description><link>https://fullstackkitchen.com/raspberry-peach-rolled-cake/</link><guid isPermaLink="false">https://fullstackkitchen.com/raspberry-peach-rolled-cake/</guid><pubDate>Mon, 06 Jan 2020 12:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
-&lt;p&gt;&lt;span
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Rolled Rug Raspberry Peach Cake]]></title><description><![CDATA[I’m a big fan of the show You on Netflix when it originally came out. When Netflix reached out to me to make a cake inspired by the show for…]]></description><link>https://fullstackkitchen.com/raspberry-peach-rolled-cake/</link><guid isPermaLink="false">https://fullstackkitchen.com/raspberry-peach-rolled-cake/</guid><pubDate>Mon, 06 Jan 2020 12:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1280px; &quot;
     &gt;
@@ -112,7 +511,7 @@
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 125.62499999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAZABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAG1DFxdAsR+ViQlBU//xAAbEAEAAwADAQAAAAAAAAAAAAACAAERAwQxIv/aAAgBAQABBQJkmtFw1p7KydcfOOcnBTSOE1dUvYvf/8QAFxEAAwEAAAAAAAAAAAAAAAAAABARIf/aAAgBAwEBPwGYQq//xAAWEQEBAQAAAAAAAAAAAAAAAAAQEUH/2gAIAQIBAT8B0h//xAAdEAABAwUBAAAAAAAAAAAAAAABABAhAhESIDGR/9oACAEBAAY/ApUGohc9LZF7DX//xAAdEAADAAICAwAAAAAAAAAAAAAAARExQSFREJGh/9oACAEBAAE/IV1rb8KMIvDJDTC5Zc66MUjeStl9lA955g6G4+tEs6YB+D//2gAMAwEAAgADAAAAEAsiQf/EABgRAQEBAQEAAAAAAAAAAAAAAAEAESFx/9oACAEDAQE/EME9kvkut//EABcRAQEBAQAAAAAAAAAAAAAAAAEAEWH/2gAIAQIBAT8QV6t5BNyDC//EAB4QAQACAgIDAQAAAAAAAAAAAAEAESExQXFRobGB/9oACAEBAAE/EG4FXeaHnGYLAJpRH94SGSB1ui8lxSnDVvcBSMlYt7+welQaFpfqOKUV7B1XMNvM2JwrXUejdby69z05w6nzn//Z&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 125.62499999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAZABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAG1DFxdAsR+ViQlAz//xAAbEAEAAwADAQAAAAAAAAAAAAACAAERAwQxIv/aAAgBAQABBQJkmtFw1p7KydcfOOcnBTSOE1dUvYvf/8QAFxEAAwEAAAAAAAAAAAAAAAAAABARIf/aAAgBAwEBPwGYQq//xAAWEQEBAQAAAAAAAAAAAAAAAAAQEUH/2gAIAQIBAT8B0h//xAAdEAABAwUBAAAAAAAAAAAAAAABABAhAhESIDGR/9oACAEBAAY/ApUGohc9LZF7DX//xAAdEAACAgMAAwAAAAAAAAAAAAABEQAxIUFREJGh/9oACAEBAAE/IR0i38jFIeDFBBRMKd65KoibjWn7jAd3lQyMo81FYuUeT//aAAwDAQACAAMAAAAQCyJD/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQARIXH/2gAIAQMBAT8QwT2S+S63/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERYf/aAAgBAgEBPxB3RcEqsEof/8QAHxABAAICAgIDAAAAAAAAAAAAAQARITFBcaGxUWGB/9oACAEBAAE/EG4FWrdD5ozBYBNKI/vCQyQOrri8lxSnDVvcBSMlYt79welQaFpfiOKUV7B1XMNvM2JwrX0R6N1vLrzPDjx1PRP/2Q==&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
@@ -128,6 +527,7 @@
         sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;
@@ -144,7 +544,7 @@
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 116.25000000000001%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAXCAYAAAALHW+jAAAACXBIWXMAACTpAAAk6QFQJOf4AAAGM0lEQVQ4yz2Va1CU5xXHdzKZ6ZdMvvZDJzP9Uqc1MQyt0Ug1KQYQbKnESqgVIYoSEjPhFqRyLaBcDQIRg8jdAMKyLJcFBLnflYu4stxxd7nuLuyyLHsBjP76Wmb6zvznfZ7nw+897znnfx6RXrvOhsGEwWBGpzezqDWh1mwKMrK8ZmJh1UBHaw/pqbf41uVjfH/7K3x8LuF05iKOnxwjOug8cRFBxMREU1NVhchk3GJry8amycbahhWtAH0jzfqWsLewpDHQ3DpIfm4pBTeu0V+dy8DDSobapPQ3PKCnQcxYp4ypviY6mhoQ7e6+ZGfnJTZBVkEW2y6bZhsbwgcMJit64T08Pk9haS3i/Dyqs1OQPiilqamJxvoaOlpkDLbX87RbRneTBNGr1/z/ebP8RdCuIJuwMFl3BaCV+SU96Xfv4+sfSOS16xTeK6b9oZi+zlrGnjxiqFdGZ20Bk4NChG9AZus26wYjOxYzZr0a/fxjNhYVWHdfsSOAN3dgeHqFC99d5eJXARTm3ma0V8pAawWdshI6awqoup1Ic51sD9j2qJWuinimpVHM1KcwWv4tPfnf0VhSxL30ZNKig8mND6fs3i16exspu5vO3aRIJHdS6KwuZbi9ibH+PtTL+j1gUXEBktxoxiUxAiiVihsRxAacI/TvRwlxssf7mB2B7nZEnDmKXD7BqlCsaZUGrVBEw6YNo3mX1bUNVnXre0D583E6+waZXNHwQqNFu7pCTsQ5bvodJ+nzP3Pa8Qg+nscI/9cR0rycyfL24XFvM0MD3UIu65iQj7A4Oc6yWrkHHOhuY3Zujq7cPOZ6e5gbHyLAyQ4/9yN85mDPp+9/QPwVF7Jj/8YFh33IkqPR1R5G9ySEydERKjPj6JDV8jQ7eg/YKi1GOTeJOCSM5+IHtAq9deHUIXLjPPB1PIjH+/uJ8z1OzOlDXDhxGNlND9aL7ZiuTcAoRNZyPZxQtw+JO3NwDzgvwHa0KmzrGizGDRpK0rnh9xfSAt0IFYAZASeJ8XVE7GPHXb9DVCV6M9bYwLW332UsM43VSTkK8R0UhWf3gDajgYmKB6zLRzFMKegtiCQr2IXAM4789cM/cPKYPZc+sSfExR6/EweI9DzCiDif1v9EoSwvQT+j4On4MM8eSfaAnT9k8ZVIhDwnnV/0K5SlRxHkdhA/14OE+DqQEXwcybXPkMa5khp1gstnjzJYmceOSo6mvRn9QBdL06N0tNUITuElK4puRsrL0LbVsTUtJ+7yeW6f3k/dVWfq4s9R9e+TSBPdqU86SWO8G023XKlLOItJo2RleIyVnn7MZmGQLMwiskxHs9X2Lq+sL9h+BZbtHeoy/Cm64kR1tC/iGB9+DvYkL/AsmZcckEZ6Ibn6MdL8MFQlX7Aq/hPL0stsKGfRvWkby1QqRrGIjfZ9bC+UCvlcZLYlUQC60pD0DcVBhyj6/lPKY92puv5P2rO8KQ9xQJKVwELNj0zHvoU6XMRa+XlhmBgRWa0WdpU5bHV8xIsf32JtKBTFo0RKwvyZ7yikLtaDh4n+tPwUxqgklWfl39Ob7cvUyDBrQg5nk95BGSNCHfw2OuUwok3hF7e0ZsqcT/PDr98j+XMPBooCmBDfQt1ZyXRDKoutErpyohguD+RxbhTyn71QzragVc2gzD6AOkvEbOJ+xvtbES1qNahHRsn4ze9IEPoq2cmFn8I8UUj9WZbdYLbiCqoGb8alAuz+16w2R/Ck2ofaimQMlpcsSkNYuimiKuwwGYKDRCrlPOrFeTQzszwrLUM1NEJOSgIXnQ6QGnmCxjQh4tseTJV9SVeeFwWZp/jGbR8dlfdZGSjmRaKIhcx3qEoLpa6iAJFuXfdaJTjFZLX+b7iat3fRCtWS5d8hPCwIH1dnAk45Ee3lyhd2v+cfdh+Q5+mOarCfuZxLKPOdkZdG8qy5nrnJkV2RyWx6bTRb0Gp0mI2bgvWMmDYMwoBdYjQiip6UVOSDfQwU5pP3x4+QuLmhsZlYXF9Du7TEmtHG9HAvsgAfWlISdkTGLSMW4V5ZUKuZUjxHv7rMlgA0Cp6eLStjeUKBTruKqrkJVX8vM20tLOt1LAtni9pl+tpqqSu5iaJBQnNUxPZ/Afs8Z/J14yEcAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 116.25000000000001%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAXCAYAAAALHW+jAAAACXBIWXMAACTpAAAk6QFQJOf4AAAGI0lEQVQ4y1XUWVfTBwKG8f8X0F70G/TM9MJpZyptR3GsS+0glha0KloZAQ8Up4oMtcoqm1BkERCqoIgIyG4whF0hiEIAkRAkrBK2QCAJITthU585lbmZ9wP8Lt6LR1jSGTAZrRiNNhYNNuZ0FtRaM7MLJub1FmYXjLRK20lLSees625O/GkLPt7+HDx6hv179xAZ7ENs5EWio6MQV4kQLGYbNtsKFqsDg2kZ/ZId3ZINncGKwWRHo13iSUsXebnF5CZG0C6+h+yxiBetEtobKmhrECF/Vs9Q52NaG+sR1tc3WFvbYGV1g5W1DZZX1rHaVzBbHZgsDozWFeRKFQUl1ZTfy6MyO5VH5SU0NjZSX1tN65M6Op/WIW9voK3pEcK7d/zf3gIbwOobsDnWMVocTM4auHG7CN+AICLD48m/W4i0SYSsrQZFTws9HQ1IJQUMdjci/IHYHassGc2sLtuxLanRT75kaW4Ex/ob1t6AdRX6xubwC7qMX8C/yc+9Ra9MgqzlIa11xe+x8ltJNNXWbYLS5hakFUkMSBIYrE+nu+IS0vuXqC0q4E5GMsnRv5ITH05x3g06Ohopzs0g+1oUFTmpSMWl9DxtQtEpQ60xbIIFhflU3o1DIU6k9X46JdeiuPLzaYIO7yXw4Jec3LOdc+5fcNlzHwMDw2iNdsanFtCblt//bLGtoV00odX/DxxQDvJM1sWYRsu0VotuYZ7fI31I/MmV2OP7OPz1PzjtuZ9fvfbw24+HSPP1pbujhZ6udqSPaxhS9qEeHUIzM7UJdj1vZVylQpqfz+vODsYHe/H7pxO+7l+xf9fn7P7kU6ID3ciKOca/dm9DnBrDTK07mpdxDPXJKcuKR1onoev21U3wibiISdUoJaGhKMSVNNeL8DnsTPbVE3gd+Dtuf/0LUWcOEnZsN6cP7UKcfhx1iTODtSksjQ1Rey2CIDcnIjx3bYITqlFW9GqWDTrsZhM1DzKJ9XfhWrAHF77ZQco5D8LPuFDkt5OsgL2UJfkhb2ogaMuHvMjJYG5UiaIqF3lhwCboMJt4VVWJbrCfxdcjPC2II+3i9wR6fsPBv23D9avP8dn3BYGHvsT3kBMhJ/bwoqqQht9iGX1YyuL4MP1KOX1SySbYnHUTL0HgZV4W68YFHmTEcN5tJ77f7iTYdy+pF7+l9Mp3lMcfISnKA79T++gQ5eOYGWT2eQu6ng7UYwqe/gG+5S1zI510V5Yx29aAeXyQ6LM+XPd0ojLcnYcJZyiO+IGKJE9EyccQJxxFknkcUaI3Ft00c31K1J3d2O1W1OpxBMvrTPRP/8yGY4a1t+BYXaMq8wJ3LrhRFuNPcawf9y6dIvsXb1IDvqY8ypuSsAOI8q8wWnKayaq9TNYEYZyeQKeeRjCP3ULzSEDbtgO7WoLDrGG4JZ3bF9wRJweTe3EfuSGuFMYepzTRm8bf/bl/+QCVNxNR1eUgT9iK8oqAutIfo9WM4HA4WJ66y+IzZ5Q5W5jvjeBVczp5YecYbSvmYdxJJMnnqb8dwYtH6fRURCHNOctIXy/66UEUqR8wEC8wELoV3XQ/gnVlFZvezj2PE8R99BFXPY/yrCgYRdVNVM+rUDZkMNkqpjk3ls7yUJ7nXeVlqR9Tqla00yqG7jgxnC3Qn+LMQKcUYU6nZapfQcLH2wj54ENiXV3JCvVCIQlmsuE6g6JQxhoDUVSH0V7yC9PNCcjEP1NdcR3T8gaqmnBGbggUh+0mPSkGYXpqghn1BPPj4/SWlzHRKyc7OQFvl+0kRbpTnfYjbTlevCo/T3P+Ge5mniTA7RNaRCXMdJfwKkVg+NZWytNCqK64j7Bo0L+bmhjF6nC8j6t9dQ2tehpJfg4hl4PxOuTCT0dcCDvlxpHt2/D47FNuev3ARE83yrzzDBccpLc8hr4n9YyPytcFm936zmJfRqfVY7NYWbaYsZiMLGk0yGJikV5Po7+7k+cP7pO5w5kH37ujd1jRGBbRzmlYNK8wIpch+o8/damJa4LZZsaxvoF6ZoaRISUG7TxWkxGz2cxwZQWzI8PodQuomh8z0S1jpK2FeYOeed0Cc7p52ltrEBelM9AkpjYmavW/endp4lXfGN8AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
@@ -160,6 +560,7 @@
         sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;
@@ -176,7 +577,7 @@
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 127.18750000000001%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAZABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAwL/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/aAAwDAQACEAMQAAABfWblhvGojpPrqC8igr//xAAcEAACAgIDAAAAAAAAAAAAAAABAwIRADITIzH/2gAIAQEAAQUClQwTgWGYt2qj2G7ZZgtNS5Dgw+s3/8QAGBEBAQADAAAAAAAAAAAAAAAAAQAQETH/2gAIAQMBAT8BAwctF//EABgRAAMBAQAAAAAAAAAAAAAAAAABIRAx/9oACAECAQE/Abj6in//xAAeEAACAQMFAAAAAAAAAAAAAAAAAUEQETECISIzcf/aAAgBAQAGPwLlgsrNenWYgZI9i71RFXT/xAAdEAACAgIDAQAAAAAAAAAAAAAAARExIUFRcZGh/9oACAEBAAE/IV6qWJ+EbZMk4S84Lsny4JEXOzMjwKmQY9BWat6dRRH1Fx//2gAMAwEAAgADAAAAEGQg8f/EABgRAQADAQAAAAAAAAAAAAAAAAABEWEh/9oACAEDAQE/EKEKT7xg/8QAGREBAAIDAAAAAAAAAAAAAAAAAQAQEVFx/9oACAECAQE/EFyaaFudT//EACEQAQEAAQMDBQAAAAAAAAAAAAERACExcUGhsRBRYYHR/9oACAEBAAE/EJoxSrYBxrjPhCoR42TbDC+Iqm/WLRspAacnpjr0UCaSexrnQouzA7mAEqFpadZ885VcLQQvliMCgNIn56iu2PGf/9k=&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 127.18750000000001%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAZABQDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAQFAQID/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgD/2gAMAwEAAhADEAAAAX1m5Ybx1Ed59hILIoK//8QAHhAAAgIBBQEAAAAAAAAAAAAAAQIDETIAEBMhI0H/2gAIAQEAAQUCahoOjSl+5sYj6G7kspHDTch2+yZ//8QAGBEBAQADAAAAAAAAAAAAAAAAAQAQETH/2gAIAQMBAT8BAwctF//EABgRAAMBAQAAAAAAAAAAAAAAAAABIQIQ/9oACAECAQE/AbxzSKf/xAAdEAABAwUBAAAAAAAAAAAAAAAAARFBAgMQITEi/9oACAEBAAY/AvXBqWY1bQ5ApIuh1qiMrj//xAAdEAACAgIDAQAAAAAAAAAAAAAAARExIVFBcZGh/9oACAEBAAE/IVj1S9CZIjzMiZcjOC7J7aGQXPJmR4FTLsMegrNW9OoVD+xYf//aAAwDAQACAAMAAAAQZy2N/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERYf/aAAgBAwEBPxCBEHr4YH//xAAZEQEAAgMAAAAAAAAAAAAAAAABABARUXH/2gAIAQIBAT8QXJpoNzqf/8QAIBABAAICAQQDAAAAAAAAAAAAAQARITFxQWGhsRBRgf/aAAgBAQABPxCsIUrbQHaVCYKoh4qk1CngLKzf5Fhu2QGOT0jm2LAmxK+tzfQXpgeYBy0Ms2da78y/8rEhfaI0FisIk1fFeAeif//Z&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
@@ -192,10 +593,11 @@
         sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;I’m a big fan of the show You on Netflix when it originally came out. When Netflix reached out to me to make a cake inspired by the show for the premiere of Season 2, I jumped on the chance! &lt;/p&gt;
+&lt;p&gt;I’m a big fan of the show You on Netflix when it originally came out. When Netflix reached out to me to make a cake inspired by the show for the premiere of Season 2, I jumped on the chance!&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1280px; &quot;
@@ -225,10 +627,10 @@
         sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
       /&gt;
   &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Dulce de Leche Stuffed Chocolate Chunk Cookies]]></title><link>https://fullstackkitchen.com/dulce-de-leche-chocolate-chunk-cookies/</link><guid isPermaLink="false">https://fullstackkitchen.com/dulce-de-leche-chocolate-chunk-cookies/</guid><pubDate>Tue, 18 Jun 2019 23:46:37 GMT</pubDate><content:encoded>&lt;hr&gt;
-&lt;p&gt;&lt;span
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Dulce de Leche Stuffed Chocolate Chunk Cookies]]></title><link>https://fullstackkitchen.com/dulce-de-leche-chocolate-chunk-cookies/</link><guid isPermaLink="false">https://fullstackkitchen.com/dulce-de-leche-chocolate-chunk-cookies/</guid><pubDate>Tue, 18 Jun 2019 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1280px; &quot;
     &gt;
@@ -257,9 +659,11 @@
         sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
+&lt;div class=&quot;multi-picture multi-picture--2&quot;&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1280px; &quot;
@@ -289,6 +693,7 @@
         sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
@@ -321,9 +726,11 @@
         sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
 &lt;div class=&quot;body-text&quot;&gt;
     These cookies are a creation of my attempt to use up the multiple jars of dulce de leche my brother graciously brought back for me from his trip to Argentina.  He had some time off while switching jobs.  He is now is at his new fancy hedge fund job and I’m such a proud older sis! It was also conveniently his birthday, so most of these cookies went to him since he is a CCC fiend. 
 &lt;/div&gt;
@@ -356,12 +763,14 @@
         sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;div class=&quot;body-text&quot;&gt;
 These cookies have a mix of milk and dark chocolate Gittard discs, flaky salt on top and a healthy dollop of dulce inside, which spreads along with the cookie to create a thin layer of dulce throughout.
 &lt;/div&gt;
+&lt;div class=&quot;multi-picture multi-picture--2&quot;&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1280px; &quot;
@@ -391,6 +800,7 @@ These cookies have a mix of milk and dark chocolate Gittard discs, flaky salt on
         sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
@@ -422,10 +832,11 @@ These cookies have a mix of milk and dark chocolate Gittard discs, flaky salt on
         sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
       /&gt;
   &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Berry Rhubarb Crumble Bars]]></title><description><![CDATA[These bars are super easy to make and a great summer dessert! Feel free to use either fresh or frozen fruit.  If you use fresh strawberries…]]></description><link>https://fullstackkitchen.com/berry-rhubarb-bars/</link><guid isPermaLink="false">https://fullstackkitchen.com/berry-rhubarb-bars/</guid><pubDate>Thu, 30 May 2019 12:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
-&lt;p&gt;&lt;span
+    &lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Berry Rhubarb Crumble Bars]]></title><description><![CDATA[These bars are super easy to make and a great summer dessert! Feel free to use either fresh or frozen fruit. If you use fresh strawberries…]]></description><link>https://fullstackkitchen.com/berry-rhubarb-bars/</link><guid isPermaLink="false">https://fullstackkitchen.com/berry-rhubarb-bars/</guid><pubDate>Thu, 30 May 2019 12:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1280px; &quot;
     &gt;
@@ -454,10 +865,13 @@ These cookies have a mix of milk and dark chocolate Gittard discs, flaky salt on
         sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
       /&gt;
   &lt;/a&gt;
-    &lt;/span&gt;
-&lt;span
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;These bars are super easy to make and a great summer dessert! Feel free to use either fresh or frozen fruit. If you use fresh strawberries and/or berries, the texture will be a bit more chunky than frozen (seen in photos 3 and 4). From my experiments, frozen fruit will break down easier and form more of a jam like texture (seen in photos 1 and 2). The recipe says to use 450g of strawberries and 350g of rhubarb. If you don’t have that much rhubarb (it’s expensive yo!), replace some of the weight with raspberries, blueberries or more strawberries! Any combo will be delicious.&lt;/p&gt;
+&lt;div class=&quot;multi-picture multi-picture--3&quot;&gt;
+&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1280px; &quot;
     &gt;
@@ -486,10 +900,11 @@ These cookies have a mix of milk and dark chocolate Gittard discs, flaky salt on
         sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
       /&gt;
   &lt;/a&gt;
-    &lt;/span&gt;
-&lt;span
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1280px; &quot;
     &gt;
@@ -518,10 +933,11 @@ These cookies have a mix of milk and dark chocolate Gittard discs, flaky salt on
         sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
       /&gt;
   &lt;/a&gt;
-    &lt;/span&gt;
-&lt;span
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1280px; &quot;
     &gt;
@@ -550,12 +966,11 @@ These cookies have a mix of milk and dark chocolate Gittard discs, flaky salt on
         sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;These bars are super easy to make and a great summer dessert! Feel free to use either fresh or frozen fruit.  If you use fresh strawberries and/or berries, the texture will be a bit more chunky than frozen (seen in photos 3 and 4).  From my experiments, frozen fruit will break down easier and form more of a jam like texture (seen in photos 1 and 2). The recipe says to use 450g of strawberries and 350g of rhubarb.  If you don’t have that much rhubarb (it’s expensive yo!), replace some of the weight with raspberries, blueberries or more strawberries! Any combo will be delicious. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Dirty Chai Almond Brownies]]></title><description><![CDATA[Side image of bars
-Side image of bars Brownies!]]></description><link>https://fullstackkitchen.com/dirty-chai-almond-brownies/</link><guid isPermaLink="false">https://fullstackkitchen.com/dirty-chai-almond-brownies/</guid><pubDate>Wed, 24 Apr 2019 12:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
-&lt;p&gt;&lt;span
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Dirty Chai Almond Brownies]]></title><description><![CDATA[Side image of bars Side image of bars Brownies!]]></description><link>https://fullstackkitchen.com/dirty-chai-almond-brownies/</link><guid isPermaLink="false">https://fullstackkitchen.com/dirty-chai-almond-brownies/</guid><pubDate>Wed, 24 Apr 2019 12:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1280px; &quot;
     &gt;
@@ -568,7 +983,7 @@ Side image of bars Brownies!]]></description><link>https://fullstackkitchen.com/
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 125%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAZABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUA/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAXkZEKGDpXzaSSJq2P/EABwQAQADAAIDAAAAAAAAAAAAAAIAAQMREhMxNP/aAAgBAQABBQKz0rPyJpKr3VS0p3cazO6N80OZp9T91P/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABsQAAIDAAMAAAAAAAAAAAAAAAABESExEBJx/9oACAEBAAY/AiyCE7NZTHT7MwwXvP8A/8QAHhAAAgICAgMAAAAAAAAAAAAAAAERITFRQWGRobH/2gAIAQEAAT8hep5eJ0PY09jCkVWCU5KcaOkPsUNkdipTfAUHEalsj1J8jA//2gAMAwEAAgADAAAAEBcdvv/EABkRAAIDAQAAAAAAAAAAAAAAAAERABAhMf/aAAgBAwEBPxADS5kb7X//xAAYEQADAQEAAAAAAAAAAAAAAAAAARExEP/aAAgBAgEBPxB5ERkmc//EACIQAQACAQQABwAAAAAAAAAAAAEAESExQVFhEHGBkcHh8P/aAAgBAQABPxAWNuHBKsA7kFPFekNyr2G/LEWGHSd2t/ENQVVhhDZLsLOo2BETYuLlSrgTR99JfabFB9T8Th8Ppz//2Q==&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 125%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAZABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUA/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAXkZEKGDpXzaSSJq2P/EABwQAQADAAIDAAAAAAAAAAAAAAIAAQMREhMxNP/aAAgBAQABBQKz0rPyJpKr3VS0p3cazO6N80OZp9T91P/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABsQAAIDAAMAAAAAAAAAAAAAAAABESExEBJx/9oACAEBAAY/AiyCE7NZTHT7MwwXvP8A/8QAHhAAAgICAgMAAAAAAAAAAAAAAAERITFhQVGRobH/2gAIAQEAAT8hep5bqR7Gn2MKRVYJTkpx0aQ9ihsjYqU3wFBxGpbI9SfIwP/aAAwDAQACAAMAAAAQFx2+/8QAGREAAgMBAAAAAAAAAAAAAAAAAREAECEx/9oACAEDAQE/EANLmRvtf//EABgRAAMBAQAAAAAAAAAAAAAAAAABETEQ/9oACAECAQE/EHkRGSZz/8QAIhABAAIBBAAHAAAAAAAAAAAAAQARITFBUWEQcYGRweHw/9oACAEBAAE/EBY6JwJVgHcgp4r0huVew35Yiww6Tu5+IagqrDCGyXYWdRsCImxcXKlXAmj76S+02KD6n4nD4fTn/9k=&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
@@ -584,13 +999,15 @@ Side image of bars Brownies!]]></description><link>https://fullstackkitchen.com/
         sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
       /&gt;
   &lt;/a&gt;
-    &lt;/span&gt;
-&lt;img src=&quot;./chai_brownies-9.jpg&quot; alt=&quot;Side image of bars&quot;&gt;
-&lt;img src=&quot;./chai_brownies-6.jpg&quot; alt=&quot;Side image of bars&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Brownies!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Blood Orange Bars]]></title><description><![CDATA[Its Valentine’s week, which means my feed (and probably yours) is over run with heart shaped this and chocolate that and pink this. Well…]]></description><link>https://fullstackkitchen.com/blood-orange-bars/</link><guid isPermaLink="false">https://fullstackkitchen.com/blood-orange-bars/</guid><pubDate>Sun, 10 Feb 2019 23:46:37 GMT</pubDate><content:encoded>&lt;hr&gt;
-&lt;p&gt;&lt;span
+    &lt;/span&gt;&lt;/p&gt;
+&lt;div class=&quot;multi-picture multi-picture--2&quot;&gt;
+&lt;p&gt;&lt;img src=&quot;./chai_brownies-9.jpg&quot; alt=&quot;Side image of bars&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;./chai_brownies-6.jpg&quot; alt=&quot;Side image of bars&quot;&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Brownies!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Blood Orange Bars]]></title><description><![CDATA[Its Valentine’s week, which means my feed (and probably yours) is over run with heart shaped this and chocolate that and pink this. Well…]]></description><link>https://fullstackkitchen.com/blood-orange-bars/</link><guid isPermaLink="false">https://fullstackkitchen.com/blood-orange-bars/</guid><pubDate>Sun, 10 Feb 2019 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1280px; &quot;
     &gt;
@@ -603,7 +1020,7 @@ Side image of bars Brownies!]]></description><link>https://fullstackkitchen.com/
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 141.875%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAcABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQCAwUB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMB/9oADAMBAAIQAxAAAAGVLSc665wcoo7i2KJcaf/EAB0QAAICAgMBAAAAAAAAAAAAAAECAAMSIgQjMjP/2gAIAQEAAQUCd2ay/dqfnyPcpPXdWXcoZWNCJgMsQJ//xAAYEQACAwAAAAAAAAAAAAAAAAAAARASMf/aAAgBAwEBPwFD0tH/xAAXEQEBAQEAAAAAAAAAAAAAAAAAARIx/9oACAECAQE/AU4yj//EACAQAAIBAQkAAAAAAAAAAAAAAAABAjEQERIgISJhYnH/2gAIAQEABj8CWuFRFOPgrzqcCsrtyUP/xAAdEAEAAgICAwAAAAAAAAAAAAABABEhMXGBQVGR/9oACAEBAAE/IXw5DDDYvqWqVp5mNHlPWXPuFi1LaJUC10VCpBdkVq3QagKiP//aAAwDAQACAAMAAAAQ/PAO/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQARITH/2gAIAQMBAT8Q5Bn1C8l12//EABcRAQEBAQAAAAAAAAAAAAAAAAEAETH/2gAIAQIBAT8QVVuGzAhl/8QAHRABAQACAwADAAAAAAAAAAAAAREAITFBYVGh0f/aAAgBAQABPxA67YxVyaFQXU9H5yETI8rhNCaSQZ3PrBWEzqHbd9tcTTemEDiFE584zTpCtGDP3AnQmoYmtF9xXZYVouTADP/Z&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 141.875%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAcABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQCAwUB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMB/9oADAMBAAIQAxAAAAGVLSc665wcoo7imILjT//EAB0QAAICAgMBAAAAAAAAAAAAAAEDAAISIgQjMjP/2gAIAQEAAQUCZe1mP3sn58j3Enrcs3uaGLGhExGeIE//xAAYEQACAwAAAAAAAAAAAAAAAAAAARASMf/aAAgBAwEBPwFD0tH/xAAXEQEBAQEAAAAAAAAAAAAAAAAAARIx/9oACAECAQE/AU4yj//EAB8QAAIBAwUBAAAAAAAAAAAAAAABEhARMSEiQWFicf/aAAgBAQAGPwJO8Yk18EeToRpgztrbin//xAAdEAEAAwACAwEAAAAAAAAAAAABABEhMVFBYXGB/9oACAEBAAE/IaMB1cYaH9tmDW08zNH6nWu/2FlxLaiAta+IVILFm7ocQNQT/9oADAMBAAIAAwAAABB08QL/xAAYEQEBAQEBAAAAAAAAAAAAAAABACERMf/aAAgBAwEBPxDIM9QvJet//8QAGBEBAQEBAQAAAAAAAAAAAAAAAQARMUH/2gAIAQIBAT8QVVuWz6ghl//EABwQAQEAAgMBAQAAAAAAAAAAAAERAEEhMVFhsf/aAAgBAQABPxASNpUrvDKqhoh6PuVA5NrncQ4SSzc351grCZ6j25s3a4ikdMKEAKO/nWcGgVjxGft+4M6E4hiapy/crwqK9yQIZ//Z&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
@@ -619,6 +1036,7 @@ Side image of bars Brownies!]]></description><link>https://fullstackkitchen.com/
         sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
@@ -635,7 +1053,7 @@ Side image of bars Brownies!]]></description><link>https://fullstackkitchen.com/
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 119.68750000000001%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAYABQDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAIDBAEF/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDAP/aAAwDAQACEAMQAAAB9GGDiU0qx1gQRFB//8QAGxABAAMAAwEAAAAAAAAAAAAAAQACEQMEExT/2gAIAQEAAQUCeUI82R7GLtrStlPLHzbT52f/xAAXEQADAQAAAAAAAAAAAAAAAAAAARES/9oACAEDAQE/AcoiKbZ//8QAFxEAAwEAAAAAAAAAAAAAAAAAABAREv/aAAgBAgEBPwGlWT//xAAaEAACAwEBAAAAAAAAAAAAAAAAEQEhMQKR/9oACAEBAAY/Ai4MEh14VwyjZNk//8QAHBABAAICAwEAAAAAAAAAAAAAAQARIXExQYGx/9oACAEBAAE/IXOLzU6p4y9PuINQ2rBpL446SyVNXK2YajgLG4BwWmf/2gAMAwEAAgADAAAAEOwg/P/EABoRAAICAwAAAAAAAAAAAAAAAAABEBExQaH/2gAIAQMBAT8QKrXRvmH/xAAYEQADAQEAAAAAAAAAAAAAAAAAAREhUf/aAAgBAgEBPxCyuiWwg//EAB8QAQADAAEEAwAAAAAAAAAAAAEAESExQVFhgZHB0f/aAAgBAQABPxClGlHTbrmfGWLv55mQU6UHPTD2Mhi8eI7CHFfR37sq9Vab/aFqLBLTsODhFGxctKC+EJ//2Q==&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 119.68750000000001%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAYABQDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAIDBAEF/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDAP/aAAwDAQACEAMQAAAB9GGDiU0qx1gQRFB//8QAGxABAAMAAwEAAAAAAAAAAAAAAQACEQMEExT/2gAIAQEAAQUCeUI82R7GLtrStlPLHzbT52f/xAAXEQADAQAAAAAAAAAAAAAAAAAAARES/9oACAEDAQE/AcoiKbZ//8QAFxEAAwEAAAAAAAAAAAAAAAAAABAREv/aAAgBAgEBPwGlWT//xAAaEAACAwEBAAAAAAAAAAAAAAAAEQEhMQKR/9oACAEBAAY/Ai4MEh14VwyjZNk//8QAHBAAAgIDAQEAAAAAAAAAAAAAAREAITFBcYGx/9oACAEBAAE/ITmHamqeGPR9wgVAskwFEPWtIyKccVlK1DQJh2AGBcM//9oADAMBAAIAAwAAABDsIPz/xAAaEQACAgMAAAAAAAAAAAAAAAAAARARMUGh/9oACAEDAQE/ECq10b5h/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERIVH/2gAIAQIBAT8QsrolsIP/xAAfEAEAAwABBAMAAAAAAAAAAAABABEhMUFRYXGBwdH/2gAIAQEAAT8QpRpR0265l70sXfzzMgp0oOfDD2Mhi8eI7CHFfR37sq1Vdv8AaFrLEWnYcHCKNi5aUF8IT//Z&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
@@ -651,6 +1069,7 @@ Side image of bars Brownies!]]></description><link>https://fullstackkitchen.com/
         sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
@@ -667,7 +1086,7 @@ Side image of bars Brownies!]]></description><link>https://fullstackkitchen.com/
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 120.93750000000001%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAYABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/9oADAMBAAIQAxAAAAGtrpXhmY0yE3tDy//EABwQAAEEAwEAAAAAAAAAAAAAAAECAyEiABITEf/aAAgBAQABBQJyyr9O8tQ9HoQsYq2axoCP/8QAGBEAAgMAAAAAAAAAAAAAAAAAABECEGH/2gAIAQMBAT8BwUaZ/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAEQITH/2gAIAQIBAT8BLHsf/8QAHxAAAQQCAgMAAAAAAAAAAAAAAAECESESMSMyQYHR/9oACAEBAAY/AuMzc2BfhOMIOvsU4SorQ2GQvlTcez//xAAcEAEBAQADAQEBAAAAAAAAAAABEQAhMVFBcYH/2gAIAQEAAT8hHW4JP5uviOvM0wHL83lW+Z5qAKoletclL5lUKkNYoVF/TSlbCQz/2gAMAwEAAgADAAAAEPjIQf/EABsRAQEAAQUAAAAAAAAAAAAAAAEAESExUfDx/9oACAEDAQE/EHTZPTyHBK5v/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQARIUH/2gAIAQIBAT8QPXbZwob/xAAfEAEAAgICAgMAAAAAAAAAAAABESEAMVFhQYGhscH/2gAIAQEAAT8Qt1hHN5YIu8FIkePvIpey3rc3lDsFDT3jZ+y1+PnICVNpP5i7iwFI84ttSZOm8Jq4IQ95/9k=&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 120.93750000000001%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAYABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAEDAgT/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/9oADAMBAAIQAxAAAAGXtK8ZmNMhN9oeX//EABwQAAAHAQEAAAAAAAAAAAAAAAABAgMSISITEf/aAAgBAQABBQJzSt9O9tU9XpIWQVoRqEi//8QAGBEBAQADAAAAAAAAAAAAAAAAABEBQWH/2gAIAQMBAT8B4mGlf//EABcRAQADAAAAAAAAAAAAAAAAAAABECH/2gAIAQIBAT8Bamv/xAAeEAACAgICAwAAAAAAAAAAAAAAAQIREiEjMkFh0f/aAAgBAQAGPwLjM5RofwvGkS32NSQtV6I1B35Z2aP/xAAcEAEBAAIDAQEAAAAAAAAAAAABEQAhMUFRcYH/2gAIAQEAAT8hHG0Sfmceo48xpgNvWdq3WeZoBVErxlzUvmKoVCNYUIi/TJBUhIOf/9oADAMBAAIAAwAAABBYyEL/xAAbEQACAgMBAAAAAAAAAAAAAAAAARExIUGh8P/aAAgBAwEBPxB4oPT7gnAbTZ//xAAYEQEBAAMAAAAAAAAAAAAAAAABABEhQf/aAAgBAgEBPxA65hmiw3//xAAfEAEAAgICAgMAAAAAAAAAAAABACERMUFRYYGhscH/2gAIAQEAAT8Qt1wju9oIs8FMZHH3GJWy3xvMrdgoae4tv2Wr18zASJtJ/IrLTAonM2tKch03DOQBgj5n/9k=&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
@@ -683,11 +1102,11 @@ Side image of bars Brownies!]]></description><link>https://fullstackkitchen.com/
         sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Its Valentine’s week, which means my feed (and probably yours) is over run with heart shaped this and chocolate that and pink this. Well — this is me adding 1 more in. If you plan on baking this Valentines day, or at least want to bake something cute to bring into the office like what I’m doing, these blood orange bars are great choice! Blood oranges are in season right now and have that beautiful pinkish-red hue that makes my heart flutter. Its essentially a shortbread cookies + a baked curd, so what can go wrong! If you’ve had lemon bars before, its a very similar taste and feel, but slightly less tart!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Mexican Ricotta Cheesecake with Tomato Mole Jam]]></title><description><![CDATA[The first month of the New Year has already flown by and it’s bitter cold here in Brooklyn.  Even though winter is always fun (ie. skiing…]]></description><link>https://fullstackkitchen.com/tomato-mole-jam/</link><guid isPermaLink="false">https://fullstackkitchen.com/tomato-mole-jam/</guid><pubDate>Thu, 24 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
-&lt;p&gt;&lt;span
+&lt;p&gt;Its Valentine’s week, which means my feed (and probably yours) is over run with heart shaped this and chocolate that and pink this. Well — this is me adding 1 more in. If you plan on baking this Valentines day, or at least want to bake something cute to bring into the office like what I’m doing, these blood orange bars are great choice! Blood oranges are in season right now and have that beautiful pinkish-red hue that makes my heart flutter. Its essentially a shortbread cookies + a baked curd, so what can go wrong! If you’ve had lemon bars before, its a very similar taste and feel, but slightly less tart!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Mexican Ricotta Cheesecake with Tomato Mole Jam]]></title><description><![CDATA[The first month of the New Year has already flown by and it’s bitter cold here in Brooklyn. Even though winter is always fun (ie. skiing), I…]]></description><link>https://fullstackkitchen.com/tomato-mole-jam/</link><guid isPermaLink="false">https://fullstackkitchen.com/tomato-mole-jam/</guid><pubDate>Thu, 24 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1280px; &quot;
     &gt;
@@ -716,6 +1135,7 @@ Side image of bars Brownies!]]></description><link>https://fullstackkitchen.com/
         sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
@@ -732,7 +1152,7 @@ Side image of bars Brownies!]]></description><link>https://fullstackkitchen.com/
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 64.0625%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAGofPNPMif/xAAZEAEAAwEBAAAAAAAAAAAAAAACAAMTASL/2gAIAQEAAQUCstUV3bSPAZmcyLn/xAAVEQEBAAAAAAAAAAAAAAAAAAAQIf/aAAgBAwEBPwGH/8QAFREBAQAAAAAAAAAAAAAAAAAAECH/2gAIAQIBAT8Bp//EABoQAAMBAQEBAAAAAAAAAAAAAAECEQAhEkH/2gAIAQEABj8CUq3L3mK+Ct+nKrEUaKZuknU3f//EAB0QAAMAAgIDAAAAAAAAAAAAAAABETFBIVFhcZH/2gAIAQEAAT8hl6WZP0IPEgS9SNE0oPhEN/WY9/Y4Z//aAAwDAQACAAMAAAAQsA//xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQMBAT8QHFhf/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEhEf/aAAgBAgEBPxB3DWf/xAAbEAEAAwEBAQEAAAAAAAAAAAABABEhQXFRkf/aAAgBAQABPxABYFLSOfHsOUUAyr7Msg3ak5L6HAAsDhcAMjw/CBACnBhP/9k=&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 64.0625%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAGofPNPMif/xAAZEAADAQEBAAAAAAAAAAAAAAAAAgMTASP/2gAIAQEAAQUCpVhrdos/ObqZmSuf/8QAFREBAQAAAAAAAAAAAAAAAAAAECH/2gAIAQMBAT8Bh//EABURAQEAAAAAAAAAAAAAAAAAABAh/9oACAECAQE/Aaf/xAAaEAACAwEBAAAAAAAAAAAAAAABAgARIUES/9oACAEBAAY/AlZWzuQr4K32BWIsSlNTSTLM/8QAHBAAAwACAwEAAAAAAAAAAAAAAAERITFBYXGR/9oACAEBAAE/IYdjw2fgl0SUQzSOCaUHpEN/WY8fd1g//9oADAMBAAIAAwAAABCwD//EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAgBAwEBPxAcWF//xAAXEQADAQAAAAAAAAAAAAAAAAAAASER/9oACAECAQE/EHcNZ//EABwQAQEAAgIDAAAAAAAAAAAAAAERACFRkUFhgf/aAAgBAQABPxAoIE1I04cXA3UA6D38wQUG1EusuC4AEwPBcAOsDowMjCKmjP/Z&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
@@ -748,45 +1168,86 @@ Side image of bars Brownies!]]></description><link>https://fullstackkitchen.com/
         sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;div class=&quot;body-text&quot;&gt;
-&lt;p&gt;The first month of the New Year has already flown by and it’s bitter cold here in Brooklyn.  Even though winter is always fun (ie. skiing), I get that yearning to be on a beach in Mexico or basking in the Mediterranean sun whenever I am trudging to work through the snowy dirty streets of New York.  Making and eating this Mexican Ricotta Cheesecake with a Tomato Mole Jam is possibly the next best thing to hopping on a flight to warmer weather.  It has loads of spicy, complex flavors that will keep you warm and preoccupied until the sun comes out in a few months. &lt;/p&gt;
-&lt;p&gt;When i was approached by Muir Glen and The Feedfeed to develop a recipe for them using their organic canned tomatoes, I wanted to think outside the box. Wanting to stay true to my &lt;em&gt;mostly&lt;/em&gt; dessert feed, a tomato jam immediately came to mind. Tomato jams are usually made with onions, cumin and other savory spices. They show up on cheese plates, as condiments for sandwiches, on top of eggs and in vinaigrettes.  I wanted to make a more complex, sweeter jam that could do double duty as a perfect addition to a cheese plate but not feel weird on top of a dessert. Mole is a traditional sauce used in Mexican cuisines. According to Wikipedia - the source of all knowledge - a mole sauce contains a fruit, chili pepper, nut, and such spices as black pepper, cinnamon, cumin, and chocolate.  I could work with that. As you can see in the final recipe below, my mole jam has a lot of that - cinnamon, dried fruit, almonds and cocoa. The results? A sweet, (but not too sweet!) dynamic, interesting jam with a slightly spicy aftertaste.  It tastes like a tomato jam, but it also doesn’t really taste a whole lot like what you would think tomatoes taste like.  But what do I put it on? &lt;/p&gt;
+&lt;p&gt;The first month of the New Year has already flown by and it’s bitter cold here in Brooklyn. Even though winter is always fun (ie. skiing), I get that yearning to be on a beach in Mexico or basking in the Mediterranean sun whenever I am trudging to work through the snowy dirty streets of New York. Making and eating this Mexican Ricotta Cheesecake with a Tomato Mole Jam is possibly the next best thing to hopping on a flight to warmer weather. It has loads of spicy, complex flavors that will keep you warm and preoccupied until the sun comes out in a few months.&lt;/p&gt;
+&lt;p&gt;When i was approached by Muir Glen and The Feedfeed to develop a recipe for them using their organic canned tomatoes, I wanted to think outside the box. Wanting to stay true to my &lt;em&gt;mostly&lt;/em&gt; dessert feed, a tomato jam immediately came to mind. Tomato jams are usually made with onions, cumin and other savory spices. They show up on cheese plates, as condiments for sandwiches, on top of eggs and in vinaigrettes. I wanted to make a more complex, sweeter jam that could do double duty as a perfect addition to a cheese plate but not feel weird on top of a dessert. Mole is a traditional sauce used in Mexican cuisines. According to Wikipedia - the source of all knowledge - a mole sauce contains a fruit, chili pepper, nut, and such spices as black pepper, cinnamon, cumin, and chocolate. I could work with that. As you can see in the final recipe below, my mole jam has a lot of that - cinnamon, dried fruit, almonds and cocoa. The results? A sweet, (but not too sweet!) dynamic, interesting jam with a slightly spicy aftertaste. It tastes like a tomato jam, but it also doesn’t really taste a whole lot like what you would think tomatoes taste like. But what do I put it on?&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class=&quot;image-halfsize-container&quot;&gt;
-    &lt;div class=&quot;image-halfsize&quot;&gt;
-        &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1280px; &quot;&gt;
-      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/bd314c98b5b42609f694cb8e91e0dfa2/c9516/mole_cheesecake-27.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 131.875%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAaABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgP/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAbmEE8tcWEU4WVB4myv/xAAeEAACAQQDAQAAAAAAAAAAAAABAgMAEiExEBETI//aAAgBAQABBQKuxw04vu+6YVoi58wGBwKl2uv/xAAWEQEBAQAAAAAAAAAAAAAAAAARABD/2gAIAQMBAT8BMZv/xAAWEQEBAQAAAAAAAAAAAAAAAAARABD/2gAIAQIBAT8BcIv/xAAeEAAABQUBAAAAAAAAAAAAAAAAAQIQMRIgISJhkf/aAAgBAQAGPwJ6TBw2yccEq8t//8QAHBABAAICAwEAAAAAAAAAAAAAAQARIUExUXGR/9oACAEBAAE/IWowXMtQKNpcdkY6xK8gxF9SrisnhOxj2A5rLMYBpP/aAAwDAQACAAMAAAAQX/Py/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERQf/aAAgBAwEBPxC9IJ0Uf//EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAgBAgEBPxBozss3/8QAHRABAQEBAAIDAQAAAAAAAAAAAREAIWFxMVGBkf/aAAgBAQABPxBA7hY3gJpHvgkXUOSWNr0XOJuVoQ/mblAWoleEVn7iJZwC4fXdyQ+CBwFIE6zrkwFPWUVCvjf/2Q==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
-  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;mole cheesecake 27&quot; title=&quot;mole cheesecake 27&quot; src=&quot;/static/bd314c98b5b42609f694cb8e91e0dfa2/eea4a/mole_cheesecake-27.jpg&quot; srcset=&quot;/static/bd314c98b5b42609f694cb8e91e0dfa2/cb69c/mole_cheesecake-27.jpg 320w,
+&lt;div class=&quot;multi-picture multi-picture--2&quot;&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1280px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/bd314c98b5b42609f694cb8e91e0dfa2/c9516/mole_cheesecake-27.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 131.875%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAaABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAwUC/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/9oADAMBAAIQAxAAAAHc4QTy64uIlTsqDUSV/8QAHRAAAgEEAwAAAAAAAAAAAAAAAQIDERIhMQAQI//aAAgBAQABBQLlR004vr7phWjLmwBgcDcu11//xAAWEQEBAQAAAAAAAAAAAAAAAAARABD/2gAIAQMBAT8BMZv/xAAWEQEBAQAAAAAAAAAAAAAAAAARABD/2gAIAQIBAT8BcIv/xAAeEAAABAcAAAAAAAAAAAAAAAAAARAxAhIgISJhkf/aAAgBAQAGPwJZTBsmUNtBz5T/AP/EABwQAQACAgMBAAAAAAAAAAAAAAEAESFBMVFxof/aAAgBAQABPyFqMlzLUCjaXHdGOsSvIPyKrTttF9PMnyewFmssSQDSf//aAAwDAQACAAMAAAAQVzjC/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERQf/aAAgBAwEBPxC9IJ0Uf//EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAgBAgEBPxBozss3/8QAHRABAQEBAAIDAQAAAAAAAAAAAREAITFRYXGBkf/aAAgBAQABPxBArgesbRJpPvBIuqcksbX0XOJuVoR/M7DC1SrwjZ+zGCzgjh67uCj+A4ghTrOuYAofDkWhb5Tf/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Side of Cheesecake with a slice taken out&quot;
+        title=&quot;Side of Cheesecake with a slice taken out&quot;
+        src=&quot;/static/bd314c98b5b42609f694cb8e91e0dfa2/eea4a/mole_cheesecake-27.jpg&quot;
+        srcset=&quot;/static/bd314c98b5b42609f694cb8e91e0dfa2/cb69c/mole_cheesecake-27.jpg 320w,
 /static/bd314c98b5b42609f694cb8e91e0dfa2/c08c5/mole_cheesecake-27.jpg 640w,
 /static/bd314c98b5b42609f694cb8e91e0dfa2/eea4a/mole_cheesecake-27.jpg 1280w,
 /static/bd314c98b5b42609f694cb8e91e0dfa2/0f98f/mole_cheesecake-27.jpg 1920w,
 /static/bd314c98b5b42609f694cb8e91e0dfa2/8ec0a/mole_cheesecake-27.jpg 2560w,
-/static/bd314c98b5b42609f694cb8e91e0dfa2/c9516/mole_cheesecake-27.jpg 2787w&quot; sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot;&gt;
+/static/bd314c98b5b42609f694cb8e91e0dfa2/c9516/mole_cheesecake-27.jpg 2787w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
   &lt;/a&gt;
-    &lt;/span&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;image-halfsize&quot;&gt;
-        &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1280px; &quot;&gt;
-      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/fdab715a5f325047e076df5df6e7a87c/c9516/mole_cheesecake-16.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 131.875%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAaABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQAD/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAFgfYbO9qhQZ01MLGX/xAAcEAACAgMBAQAAAAAAAAAAAAABAgADERMzEjH/2gAIAQEAAQUCZgosvmyXWZP06sS7ywIIO1onazlP/8QAFREBAQAAAAAAAAAAAAAAAAAAIDH/2gAIAQMBAT8Bg//EABURAQEAAAAAAAAAAAAAAAAAACAx/9oACAECAQE/AaP/xAAfEAABAgYDAAAAAAAAAAAAAAABACECEBExQZEDEsH/2gAIAQEABj8CqqHQVgmsJPHCEIqh2ljS5Agc9fZf/8QAHRABAAICAwEBAAAAAAAAAAAAAQARITFBUYEQkf/aAAgBAQABPyFmpVs7NH7G1cR2zTMV33FUeVjyR0uYMWB5lCcJHBtRWQzJ2q14Qi40Z9fP/9oADAMBAAIAAwAAABAj0c//xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAIAQMBAT8QkNSsf//EABcRAAMBAAAAAAAAAAAAAAAAAAERICH/2gAIAQIBAT8QOnH/xAAcEAEBAAMAAwEAAAAAAAAAAAABEQAhMUFRcWH/2gAIAQEAAT8QcngsNuIlEiIbFEv6F+TJZCArZffcdK1GGxxoiF44wK1K7q5ojcG8F9njDaLXsDytRQPM3iK6JHW/mPCsCkH6u3EoKdFw/DBkKRRutG49c//Z&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
-  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;mole cheesecake 16&quot; title=&quot;mole cheesecake 16&quot; src=&quot;/static/fdab715a5f325047e076df5df6e7a87c/eea4a/mole_cheesecake-16.jpg&quot; srcset=&quot;/static/fdab715a5f325047e076df5df6e7a87c/cb69c/mole_cheesecake-16.jpg 320w,
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1280px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/fdab715a5f325047e076df5df6e7a87c/c9516/mole_cheesecake-16.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 131.875%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAaABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQAD/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL/2gAMAwEAAhADEAAAAWBtxpvaoUGdMMbGP//EABwQAAICAwEBAAAAAAAAAAAAAAECAAMREzMhMf/aAAgBAQABBQJmCiy6bJdZk/TqxLgrA+Ta0TrZzn//xAAVEQEBAAAAAAAAAAAAAAAAAAAgMf/aAAgBAwEBPwGD/8QAFREBAQAAAAAAAAAAAAAAAAAAIDH/2gAIAQIBAT8Bo//EAB4QAAEDBQEBAAAAAAAAAAAAAAEAAiEQETFBkQMS/9oACAEBAAY/Arqx4FgKMCkvaEHXExTXF6DSad/NP//EABwQAQACAgMBAAAAAAAAAAAAAAEAESExQYGRUf/aAAgBAQABPyF2pX6Gj2Nq4ippmK7rcVR5WPJG6XMA1A+cQLpxUcG1FZtMlaGuiEWGVr7Y7n//2gAMAwEAAgADAAAAECPTjv/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAwEBPxCQ1Kx//8QAFhEAAwAAAAAAAAAAAAAAAAAAESAx/9oACAECAQE/EKKf/8QAHRABAAMBAQADAQAAAAAAAAAAAQARIUExUWFxof/aAAgBAQABPxBiXBaNWKmxRELZYljdLs5KvKJVt/sdLbRsunbEQvxjAttK7azCNwtwX8nIWS16BejaYHa2Lb0vHN/I8DgWBP6urOmYF4fRDOIEzVbm56T/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Closeup of Cheesecake&quot;
+        title=&quot;Closeup of Cheesecake&quot;
+        src=&quot;/static/fdab715a5f325047e076df5df6e7a87c/eea4a/mole_cheesecake-16.jpg&quot;
+        srcset=&quot;/static/fdab715a5f325047e076df5df6e7a87c/cb69c/mole_cheesecake-16.jpg 320w,
 /static/fdab715a5f325047e076df5df6e7a87c/c08c5/mole_cheesecake-16.jpg 640w,
 /static/fdab715a5f325047e076df5df6e7a87c/eea4a/mole_cheesecake-16.jpg 1280w,
 /static/fdab715a5f325047e076df5df6e7a87c/0f98f/mole_cheesecake-16.jpg 1920w,
 /static/fdab715a5f325047e076df5df6e7a87c/8ec0a/mole_cheesecake-16.jpg 2560w,
-/static/fdab715a5f325047e076df5df6e7a87c/c9516/mole_cheesecake-16.jpg 2787w&quot; sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot;&gt;
+/static/fdab715a5f325047e076df5df6e7a87c/c9516/mole_cheesecake-16.jpg 2787w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
   &lt;/a&gt;
-    &lt;/span&gt;
-    &lt;/div&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;body-text&quot;&gt;
-&lt;p&gt;Enter the ricotta cheesecake. Using ricotta in place of some of the cream cheese makes the cake a lot lighter (in a calorie and fluffier way). This creates a good balance with the graham cracker crust and thick dense mole jam.  By using the tried and true water bath method (outlined in the instructions), my cheesecake came out perfect with no cracks, no overcooked edges and a flat top!  I also left it in the oven after I turned off the heat for a few hours, which I’ve read helps prevent cracking.&lt;/p&gt;
-&lt;p&gt;I ventured to my local co-op to buy the tomatoes, spices and other ingredients for this recipe.  Flatbush Food Coop is the closest one to me, but you can find your closest one here! The tomatoes are currently on sale for 10/$10 - which is very exciting because that’s almost half their regular price. Speaking of deals (which I’m a huge fan of), the entire co-op was extremely reasonably priced and they had an extensive bulk food and spice section where you can get just what you need (like for this recipe!). &lt;/p&gt;
-&lt;p&gt;This cake is perfect when you want to try making something different.  The jam itself is a showstopper and I can imagine it works very well with all sorts of cheese, on top of your morning bagel and cream cheese, inside a pastry or mixed into yogurt.   The jam makes a little more than you actually need to cover the cake, so let me know if you make this recipe and what you did with the extra!&lt;/p&gt;
+&lt;p&gt;Enter the ricotta cheesecake. Using ricotta in place of some of the cream cheese makes the cake a lot lighter (in a calorie and fluffier way). This creates a good balance with the graham cracker crust and thick dense mole jam. By using the tried and true water bath method (outlined in the instructions), my cheesecake came out perfect with no cracks, no overcooked edges and a flat top! I also left it in the oven after I turned off the heat for a few hours, which I’ve read helps prevent cracking.&lt;/p&gt;
+&lt;p&gt;I ventured to my local co-op to buy the tomatoes, spices and other ingredients for this recipe. Flatbush Food Coop is the closest one to me, but you can find your closest one here! The tomatoes are currently on sale for 10/$10 - which is very exciting because that’s almost half their regular price. Speaking of deals (which I’m a huge fan of), the entire co-op was extremely reasonably priced and they had an extensive bulk food and spice section where you can get just what you need (like for this recipe!).&lt;/p&gt;
+&lt;p&gt;This cake is perfect when you want to try making something different. The jam itself is a showstopper and I can imagine it works very well with all sorts of cheese, on top of your morning bagel and cream cheese, inside a pastry or mixed into yogurt. The jam makes a little more than you actually need to cover the cake, so let me know if you make this recipe and what you did with the extra!&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
@@ -801,7 +1262,7 @@ Side image of bars Brownies!]]></description><link>https://fullstackkitchen.com/
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 76.875%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/9oADAMBAAIQAxAAAAGTJMU2AFP/xAAaEAACAwEBAAAAAAAAAAAAAAABAgADESJD/9oACAEBAAEFAi+xLMiFgto79ELBf//EABURAQEAAAAAAAAAAAAAAAAAAAAB/9oACAEDAQE/AVf/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAcEAACAQUBAAAAAAAAAAAAAAAAIREBAhAiMUH/2gAIAQEABj8Cm4VV6cnGo2f/xAAcEAACAgMBAQAAAAAAAAAAAAABEQAhMUFRYXH/2gAIAQEAAT8hJpPuYcUzhmDob3FXsSiwIDUEwDfZ/9oADAMBAAIAAwAAABBI3//EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAgBAwEBPxDYK7f/xAAWEQEBAQAAAAAAAAAAAAAAAAABAEH/2gAIAQIBAT8QDYb/xAAeEAEAAgICAwEAAAAAAAAAAAABABEhMUFhUYHh8P/aAAgBAQABPxCjVFBs26/alkq0aKav6Q8E2HBXuGYaOB2XmUers9OY98DdMHif/9k=&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 76.875%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/9oADAMBAAIQAxAAAAGLpMU2AFP/xAAbEAACAwADAAAAAAAAAAAAAAABAgADERMhIv/aAAgBAQABBQItsSzIhYLaPfXIhIX/xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAgBAwEBPwFX/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8BV//EABwQAAEEAwEAAAAAAAAAAAAAAAABESExAhAiQf/aAAgBAQAGPwJ8iFj0p9c0I8n/xAAcEAADAAIDAQAAAAAAAAAAAAAAAREhUTFBcZH/2gAIAQEAAT8hb0rsesp9BfSjslnwZUk0F8ten//aAAwDAQACAAMAAAAQiB//xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQMBAT8Q2Cq3/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQBB/9oACAECAQE/EA2J/8QAHRABAAICAgMAAAAAAAAAAAAAAQARITFRYUHh8P/aAAgBAQABPxAYtFLG28n2oEQtAMU1fuNF2AKK6uGIbHgdl5iBaG+lZi1QN0wcT//Z&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
@@ -817,6 +1278,7 @@ Side image of bars Brownies!]]></description><link>https://fullstackkitchen.com/
         sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
@@ -833,7 +1295,7 @@ Side image of bars Brownies!]]></description><link>https://fullstackkitchen.com/
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 69.6875%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAgX/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/aAAwDAQACEAMQAAABZroKGIqC/8QAGxABAAICAwAAAAAAAAAAAAAAAQIDABETISL/2gAIAQEAAQUCI8srLvejEVazbV3/AP/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/Aar/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPwFH/8QAGxAAAgIDAQAAAAAAAAAAAAAAAAECMRASITP/2gAIAQEABj8CW9xQoo8y+Ys//8QAHRAAAgICAwEAAAAAAAAAAAAAAREAITFBUWGBsf/aAAgBAQABPyG0zvcwgB3kw51L8nxAIhLNagjROk5//9oADAMBAAIAAwAAABAXP//EABYRAQEBAAAAAAAAAAAAAAAAAAARcf/aAAgBAwEBPxCGn//EABYRAAMAAAAAAAAAAAAAAAAAAAEQEf/aAAgBAgEBPxCFP//EAB0QAAICAgMBAAAAAAAAAAAAAAERACExQVFxgZH/2gAIAQEAAT8QMGewQp266w4acU3Lr5CjyzITWPJelyQARxcKowoUQhIVDbCh3mf/2Q==&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 69.6875%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAgX/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/aAAwDAQACEAMQAAABZroKGIqC/8QAHBABAAIBBQAAAAAAAAAAAAAAAQIDABESEyEi/9oACAEBAAEFAiPLKy73tMYqtZq1d//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/Aar/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPwFH/8QAGxAAAgIDAQAAAAAAAAAAAAAAAAECMRASITP/2gAIAQEABj8CW9xQoo8y+Ys//8QAHRAAAgICAwEAAAAAAAAAAAAAAREAITFBUWGBsf/aAAgBAQABPyG1zvcwgB3kw5VL8nwAIhLNagDROk5//9oADAMBAAIAAwAAABAXP//EABYRAQEBAAAAAAAAAAAAAAAAAAARcf/aAAgBAwEBPxCGn//EABYRAAMAAAAAAAAAAAAAAAAAAAEQEf/aAAgBAgEBPxCFP//EABsQAAIDAQEBAAAAAAAAAAAAAAERACExQVFx/9oACAEBAAE/EDM9ghTt18xw04p2XyEH1m05kuS6QAR5cKowoUQhoVTbDbuz/9k=&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
@@ -849,11 +1311,11 @@ Side image of bars Brownies!]]></description><link>https://fullstackkitchen.com/
         sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;This post is sponsored by &lt;a href=&quot;https://www.muirglen.com/&quot;&gt;Muir Glen&lt;/a&gt; and &lt;a href=&quot;https://thefeedfeed.com/&quot;&gt;The Feedfeed&lt;/a&gt;, but all opinions are my own.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hot Cocoa Macarons with Chocolate & Marshmallow Filling]]></title><description><![CDATA[Hot Cocoa Macarons w/chocolate & marshmallow filling: Its absurdly cold today in NYC (feels like -10˚F absurdly cold), which makes me feel…]]></description><link>https://fullstackkitchen.com/hot-cocoa-macarons/</link><guid isPermaLink="false">https://fullstackkitchen.com/hot-cocoa-macarons/</guid><pubDate>Fri, 11 Jan 2019 23:46:37 GMT</pubDate><content:encoded>&lt;hr&gt;
-&lt;p&gt;&lt;span
+&lt;p&gt;This post is sponsored by &lt;a href=&quot;https://www.muirglen.com/&quot;&gt;Muir Glen&lt;/a&gt; and &lt;a href=&quot;https://thefeedfeed.com/&quot;&gt;The Feedfeed&lt;/a&gt;, but all opinions are my own.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hot Cocoa Macarons with Chocolate & Marshmallow Filling]]></title><description><![CDATA[Hot Cocoa Macarons w/chocolate & marshmallow filling: Its absurdly cold today in NYC (feels like -10˚F absurdly cold), which makes me feel…]]></description><link>https://fullstackkitchen.com/hot-cocoa-macarons/</link><guid isPermaLink="false">https://fullstackkitchen.com/hot-cocoa-macarons/</guid><pubDate>Fri, 11 Jan 2019 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1280px; &quot;
     &gt;
@@ -866,7 +1328,7 @@ Side image of bars Brownies!]]></description><link>https://fullstackkitchen.com/
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 140.3125%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAcABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQCA//EABYBAQEBAAAAAAAAAAAAAAAAAAECAP/aAAwDAQACEAMQAAABsQ85amjsL4TXsqn/xAAdEAACAQQDAAAAAAAAAAAAAAABAgADERITIjFC/9oACAEBAAEFAmtfYsNMw8U9AO0xDzU8sIVCja2A6//EABURAQEAAAAAAAAAAAAAAAAAABEg/9oACAEDAQE/ASP/xAAVEQEBAAAAAAAAAAAAAAAAAAARIP/aAAgBAgEBPwFj/8QAHxAAAgECBwAAAAAAAAAAAAAAAAECEBESISIxMkFR/9oACAEBAAY/Ak7q0absl6dnNIlhWpmdG1X/xAAbEAEAAwEBAQEAAAAAAAAAAAABABEhMVFBcf/aAAgBAQABPyEmlFWEeA7AOTFBxfJtn29/IPYHxlBMdLhZazbgRWEGzUlrbLHyLE//2gAMAwEAAgADAAAAEPzrz//EABgRAAMBAQAAAAAAAAAAAAAAAAABERBR/9oACAEDAQE/EIKxPmf/xAAYEQACAwAAAAAAAAAAAAAAAAAAARARUf/aAAgBAgEBPxAUhrY//8QAHBABAQADAQEBAQAAAAAAAAAAAREAITFBYaHR/9oACAEBAAE/ELJABZ57PIZUR8BHzeMdN3Qt+qHcv1Qw9kdzzFBHUXxoGSH2jo6N/uLoNQqmkm8mIE7E3Q/mDERIAXJr7LcGbQL6PuKpeg5//9k=&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 140.3125%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAcABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQCA//EABYBAQEBAAAAAAAAAAAAAAAAAAECAP/aAAwDAQACEAMQAAABsQ85amjsL4TXsqn/xAAdEAACAgEFAAAAAAAAAAAAAAABAgATEQMSIjFC/9oACAEBAAEFAmxmxYdMw8U9AO02h5U8wIVCi1qx1//EABURAQEAAAAAAAAAAAAAAAAAABEg/9oACAEDAQE/ASP/xAAVEQEBAAAAAAAAAAAAAAAAAAARIP/aAAgBAgEBPwFj/8QAHxAAAgECBwAAAAAAAAAAAAAAAAECEBESISIxMkFR/9oACAEBAAY/Ak7q0absl6dnNIlhWpmdG1X/xAAbEAEAAwADAQAAAAAAAAAAAAABABEhMUFRcf/aAAgBAQABPyEmnFWEeAdgHJig4uptk7vPyD2B8ZQTHJcLLWbcCKwg2bUtTZd+RYn/2gAMAwEAAgADAAAAEPzvw//EABgRAAMBAQAAAAAAAAAAAAAAAAABERBR/9oACAEDAQE/EIKxPmf/xAAYEQACAwAAAAAAAAAAAAAAAAAAARARUf/aAAgBAgEBPxAUhrY//8QAHBABAQADAQADAAAAAAAAAAAAAREAIUExYaHR/9oACAEBAAE/ELIEBZ87OTKiPwEebxjpu6Fvyp3L9UMPsjucxQxqLxoGSn2j0dG/vF0GoVTSTeTIU7Juh+YMREgBcmvdW4MUEXoxVL6Dn//Z&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
@@ -882,9 +1344,14 @@ Side image of bars Brownies!]]></description><link>https://fullstackkitchen.com/
         sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
+&lt;div class=&quot;body-text&quot;&gt;
+&lt;p&gt;Hot Cocoa Macarons w/chocolate &amp;#x26; marshmallow filling: Its absurdly cold today in NYC (feels like -10˚F absurdly cold), which makes me feel way less guilty about spending the majority of today curled up inside, drinking hot cocoa with my best friend Netflix (that Frye Festival documentary was ridiculous). Also eating way too many of these 💁🏼‍♀️ These macarons have spicy chocolate shells (think cocoa, cinnamon, with a hint of cayenne), fluffy marshmallow buttercream, and a creamy dark chocolate ganache center.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;multi-picture multi-picture--2&quot;&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1280px; &quot;
@@ -898,7 +1365,7 @@ Side image of bars Brownies!]]></description><link>https://fullstackkitchen.com/
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 132.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAaABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAwQG/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/2gAMAwEAAhADEAAAAaGSnYU5IGOdY57Q2IhHP//EABwQAAICAwEBAAAAAAAAAAAAAAECAAMREhMhMf/aAAgBAQABBQJsyhMEeRSS1btsPgz15ss2EeUei4nf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAHxABAAEDBAMAAAAAAAAAAAAAAQAQETECIUFRIjKR/9oACAEBAAY/Anc3Z5N2mL24jdflB0+0yC89TMIr3Mz/xAAcEAADAQADAQEAAAAAAAAAAAAAAREhMUFhcYH/2gAIAQEAAT8hR00tJB+VDEkJGCu8AnE231y/S2tt9K8gc+ltSNiK+kQx6Fmc1nZD7Mo6P//aAAwDAQACAAMAAAAQMxg//8QAFxEBAQEBAAAAAAAAAAAAAAAAAQAQUf/aAAgBAwEBPxB4Yy3/xAAXEQEBAQEAAAAAAAAAAAAAAAABABBh/9oACAECAQE/EDuEF//EAB4QAQEAAQUBAQEAAAAAAAAAAAERACExQWFxkVGB/9oACAEBAAE/ENz5PAt2+5s/hQIP731lQqXAOmO2KhdesHoc0q/TmkYjWq/1xO54GrGTxFg7fCbZKDgKvOA2RbgTnEvPcP3BAATh7c//2Q==&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 132.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAaABQDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUBBAIDBv/EABUBAQEAAAAAAAAAAAAAAAAAAAID/9oADAMBAAIQAxAAAAGu0UWynRAxzrLVmHeEBSf/xAAdEAACAgIDAQAAAAAAAAAAAAABAgADERITIjEz/9oACAEBAAEFAmGZQmpi7F62bYeDJs4ys2AlwxKPlce//8QAFhEAAwAAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/AXT/xAAWEQADAAAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8BcP/EAB8QAAEDAwUAAAAAAAAAAAAAAAEAEBECMUEhIjJRYf/aAAgBAQAGPwI7rrUyW9GFBNTCLrlBPWFdUwpzLf/EABoQAQEBAQEBAQAAAAAAAAAAAAERADEhQXH/2gAIAQEAAT8hQJVVdXG/LmCaShfo1iw8iF1zT3Bty8s8k96W5nC8AevMRoX6ZL9d/9oADAMBAAIAAwAAABDjEjD/xAAXEQEBAQEAAAAAAAAAAAAAAAABABAh/9oACAEDAQE/EHGer//EABgRAAIDAAAAAAAAAAAAAAAAAAABEBEh/9oACAECAQE/EFCoWD//xAAgEAEBAAEEAQUAAAAAAAAAAAABEQAhMVFhQXGRocHR/9oACAEBAAE/EBoowDV+sOQkdSel72wygTW747BrDjoWzBIS094V3cMcgRLflyiZBXS15xAAMTJGs6f3EgVQBXdxroonnERPIlffA8Fz25//2Q==&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
@@ -914,6 +1381,7 @@ Side image of bars Brownies!]]></description><link>https://fullstackkitchen.com/
         sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
@@ -930,7 +1398,7 @@ Side image of bars Brownies!]]></description><link>https://fullstackkitchen.com/
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 142.8125%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAdABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQACAf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/2gAMAwEAAhADEAAAAUSkxymLsjg1IwpexIf/xAAeEAACAQQDAQAAAAAAAAAAAAABAgMAERIiBCExMv/aAAgBAQABBQKU2V33jFlmTJSuy/PIYYx2VxUoUUvZ9r//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAwEBPwEhP//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAECAQE/AWM//8QAHRAAAQQCAwAAAAAAAAAAAAAAAQAQITEREgIigf/aAAgBAQAGPwKoXUavdNfikNueOSFmpb//xAAcEAACAwEAAwAAAAAAAAAAAAABEQAhMUFhcZH/2gAIAQEAAT8hTNui8lEXh7cSiXDwTIDXXmVDYKpR/UIUDrHheQgQ4XAFQOVxDToz/9oADAMBAAIAAwAAABB75bP/xAAXEQEAAwAAAAAAAAAAAAAAAAAAARAx/9oACAEDAQE/EGWK/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAEx/9oACAECAQE/ENI0j//EACEQAQEAAwABAwUAAAAAAAAAAAERACExcUFRYYGhscHh/9oACAEBAAE/ECkkWwABTzXWsBFK4DVdt64LxHr5ctwBBEv16GOUEiXo9vj85YVSHXrm219p+sn7p2f0Lnpldxz4muDfrjLY0x1Lzxi0Sbms/9k=&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 142.8125%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAdABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQACAf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/2gAMAwEAAhADEAAAAUSkxymLsjg1E0pexIf/xAAdEAACAQQDAAAAAAAAAAAAAAABAgMAERIiBCEy/9oACAEBAAEFApTYO+8YssyZKy9p55DDGOyuKlCqV2Nf/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8BIT//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPwFjP//EAB0QAAEEAgMAAAAAAAAAAAAAAAEAEBIxESECIoH/2gAIAQEABj8CrS6iL3TX4hINM8clZrbf/8QAHBABAAMBAQADAAAAAAAAAAAAAQARITFBYXGR/9oACAEBAAE/Iae7em+TCbj7uUp72XDfCcI09fMwNYWrS/1EUOOXxvkQlwYAs2ZCWZW1n//aAAwDAQACAAMAAAAQeCez/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAEQMf/aAAgBAwEBPxBliv/EABYRAQEBAAAAAAAAAAAAAAAAAAABMf/aAAgBAgEBPxDSNI//xAAfEAEAAgICAwEBAAAAAAAAAAABESEAMUFxUWGBsfH/2gAIAQEAAT8QKNIswABJ7ZarDhSrBlLcztwXiFbtyrAQIk/dxi6gi+x49fuSGogW7ctld38ZDxtZ4H1OcRTxlQW/C+cRaiMMkTrrJJEXFZ//2Q==&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
@@ -946,9 +1414,11 @@ Side image of bars Brownies!]]></description><link>https://fullstackkitchen.com/
         sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1280px; &quot;
@@ -962,7 +1432,7 @@ Side image of bars Brownies!]]></description><link>https://fullstackkitchen.com/
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 132.8125%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgMF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAXqq0HqGIlNGExgXJf/EAB0QAAIBBQEBAAAAAAAAAAAAAAECAwAREhMxIjP/2gAIAQEAAQUC25UrEUGuJyRHBk6Ky2kcoB7iGtKbj/Ru/wD/xAAWEQADAAAAAAAAAAAAAAAAAAAAEBL/2gAIAQMBAT8Bcn//xAAWEQADAAAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8BdP/EABsQAAICAwEAAAAAAAAAAAAAAAABESECECJR/9oACAEBAAY/AogvXCi7OijlUKabInWK9Wv/xAAaEAACAwEBAAAAAAAAAAAAAAAAAREhMVFB/9oACAEBAAE/IYTWDF29rrLRYyawHYhpM4Xr9EuXhIMHKHEjI2KvA75GNmp//9oADAMBAAIAAwAAABDrzz//xAAYEQACAwAAAAAAAAAAAAAAAAAAARARIf/aAAgBAwEBPxDIRRn/xAAYEQEAAwEAAAAAAAAAAAAAAAAAAREhQf/aAAgBAgEBPxDlrTjL/8QAHhABAAMBAQACAwAAAAAAAAAAAQARITFBUYFxsfD/2gAIAQEAAT8QAqJ67T9dz9RmHCo8P7yGTXoQXWv3BVn43ImW8l1UC7+t2FML1HEduMbNDuV5V32I+hHAnUE1a9gKgNrkMGuCapVbBRnyz//Z&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 132.8125%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQX/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABuyIHpihFOfGISkv/xAAeEAACAQMFAAAAAAAAAAAAAAABAgMAETEEEhMyM//aAAgBAQABBQLk3hXIAa9agsEhu0astpHKV3iBjWmw3qc//8QAFhEAAwAAAAAAAAAAAAAAAAAAABAS/9oACAEDAQE/AXJ//8QAFhEAAwAAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/AXT/xAAcEAACAwADAQAAAAAAAAAAAAARIQABEAISImH/2gAIAQEABj8CE9ZXVUWIeeKlKKgOD5n/xAAdEAACAgMBAQEAAAAAAAAAAAAAAREhMUFhUYGR/9oACAEBAAE/IbiKGci/SFPpEu5INeklt82IVxoXO7pUdK1gS5itPR66uf2TMf/aAAwDAQACAAMAAAAQu8kP/8QAGREAAQUAAAAAAAAAAAAAAAAAAAEQESFh/9oACAEDAQE/EKZMIH//xAAZEQACAwEAAAAAAAAAAAAAAAAAEQEhMUH/2gAIAQIBAT8Q4xk1o5//xAAeEAEAAwEBAAIDAAAAAAAAAAABABEhQTFRcZGh0f/aAAgBAQABPxBDOWjVo9K7kqwbtR0f2AJbNE3bbF0M3nYHWyXKyAwJ3TynZUHiD1b87EoUt2n6hMY+qdgCoH0j+a4ytwLv3yD80//Z&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
@@ -978,12 +1448,10 @@ Side image of bars Brownies!]]></description><link>https://fullstackkitchen.com/
         sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;div class=&quot;body-text&quot;&gt;
-&lt;p&gt;Hot Cocoa Macarons w/chocolate &amp;#x26; marshmallow filling: Its absurdly cold today in NYC (feels like -10˚F absurdly cold), which makes me feel way less guilty about spending the majority of today curled up inside, drinking hot cocoa with my best friend Netflix (that Frye Festival documentary was ridiculous). Also eating way too many of these 💁🏼‍♀️ These macarons have spicy chocolate shells (think cocoa, cinnamon, with a hint of cayenne), fluffy marshmallow buttercream, and a creamy dark chocolate ganache center. &lt;/p&gt;
-&lt;/div&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1280px; &quot;
@@ -997,7 +1465,7 @@ Side image of bars Brownies!]]></description><link>https://fullstackkitchen.com/
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 127.18750000000001%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAZABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAECAwT/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/aAAwDAQACEAMQAAABXPtlNbCAi5KEH//EAB0QAAEEAgMAAAAAAAAAAAAAAAEAAhESAxMhQkP/2gAIAQEAAQUCk7pdQ3KBOzk4nFWh9oxOMrt4lf/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EAB0QAAIBBAMAAAAAAAAAAAAAAAABIRExQXECAxD/2gAIAQEABj8CUYHArFaYOUeKHYcZFo6x7Fo//8QAHRAAAgMAAgMAAAAAAAAAAAAAAAERITFBYXGhwf/aAAgBAQABPyHHTM2PDQnLsgsliNGecs4T3W78jE1UUJW9IFhOHBibE1Qfq+jHkv/aAAwDAQACAAMAAAAQYCuB/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEQEf/aAAgBAwEBPxA2JH//xAAWEQADAAAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8QdP/EACAQAQACAgEEAwAAAAAAAAAAAAEAESExQWGhscFRkfD/2gAIAQEAAT8QvFidAxv6uWvfTjllLcNS4WCwSy6sW+InK00RpbA7xXDu8+5aZzwAusc/MEZXQssyvuCYoBdZN33n6emdv8s7J5Z//9k=&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 127.18750000000001%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAZABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDAQT/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/aAAwDAQACEAMQAAABzntKasYGzdRhQ//EAB0QAAEEAgMAAAAAAAAAAAAAAAEAAhESAxMhQkP/2gAIAQEAAQUCk7pdQ3KBOzk4nFWh9oxOMrt4lf/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABwQAAICAwEBAAAAAAAAAAAAAAABEXECITEQQf/aAAgBAQAGPwLGh6QuEx8MteLvB6cSKjAdio//xAAcEAACAwEAAwAAAAAAAAAAAAAAAREhMUFhocH/2gAIAQEAAT8hxksyPhic6QWSxAz3LOE+a3YxNVFCVuLQpFhcgxNqapo/X9GfJf/aAAwDAQACAAMAAAAQSCGN/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAQ/9oACAEDAQE/ENC//8QAFhEAAwAAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/EHT/xAAfEAEAAgICAgMAAAAAAAAAAAABABEhMaHBQWGRsfD/2gAIAQEAAT8QtBybGit/Fy37KbYywFqGpTSwWCXXVi36icrTRGlrB2uFw7vPcttl8yNY8w0yeizK9wTAC9vN8z9frOL7nCT/2Q==&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
@@ -1013,6 +1481,7 @@ Side image of bars Brownies!]]></description><link>https://fullstackkitchen.com/
         sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;</content:encoded></item></channel></rss>

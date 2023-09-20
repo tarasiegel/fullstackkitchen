@@ -1,43 +1,47 @@
-import * as React from "react";
+import * as React from 'react';
 import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
 import { StaticQuery, graphql } from 'gatsby';
 
 function RecipeSEO({ data, image, name, keywords, date, description }) {
-
-    const getInstructions = (instructions) => {
-        let allInstructions = [];
-        instructions.forEach((inst) => {
-            allInstructions.push([`{
+  const getInstructions = instructions => {
+    let allInstructions = [];
+    instructions.forEach(inst => {
+      allInstructions.push([
+        `{
                 "@type": "HowToStep",
                 "text": "${inst}"
-            }`]);
-        });
-        return allInstructions;
-    };
+            }`
+      ]);
+    });
+    return allInstructions;
+  };
 
-    const getIngredients = (ingredients) => {
-        let allIngredients = [];
-        ingredients.forEach(section => {
-            section.data.forEach(ing => {
-                allIngredients = allIngredients.concat(ing.text);
-            });
-        });
+  const getIngredients = ingredients => {
+    let allIngredients = [];
+    ingredients.forEach(section => {
+      section.data.forEach(ing => {
+        allIngredients = allIngredients.concat(ing.text);
+      });
+    });
 
-        allIngredients = allIngredients.map(ing => {
-            return `"${ing}"`;
-        });
+    allIngredients = allIngredients.map(ing => {
+      return `"${ing}"`;
+    });
 
-        return allIngredients;
-    };
+    return allIngredients;
+  };
 
-    return (
-        <StaticQuery
-            query={detailsQuery}
-            render={d => {
-                return (
-                <Helmet>
-                    <script type="application/ld+json">{`{
+  const imagesrc = image?.images?.fallback?.src;
+  console.log(imagesrc);
+
+  return (
+    <StaticQuery
+      query={detailsQuery}
+      render={d => {
+        return (
+          <Helmet>
+            <script type="application/ld+json">{`{
                         "@context": "https://schema.org/",
                         "@type": "Recipe",
                         "name": "${name}",
@@ -45,7 +49,7 @@ function RecipeSEO({ data, image, name, keywords, date, description }) {
                             "@type": "Person",
                             "name": "Tara Siegel"
                         },
-                        "image": "https://www.fullstackkitchen.com${image.src}",
+                        "image": "https://www.fullstackkitchen.com${imagesrc}",
                         "datePublished": "${date}",
                         "description": "${description}",
                         "prepTime": "PT${data.prepTime}M",
@@ -59,31 +63,30 @@ function RecipeSEO({ data, image, name, keywords, date, description }) {
                         "recipeInstructions": [${getInstructions(data.instructions)}],
                         "aggregateRating": null,
                         "video": null,
-                        "nutrition": {
-                            "@type": "NutritionInformation",
-                            "calories": "${data.calories || '300'} calories"
-                        }
+                        "nutrition": null
                     }`}</script>
-                </Helmet>
-            )} }
-        />
-    )};
+          </Helmet>
+        );
+      }}
+    />
+  );
+}
 
 RecipeSEO.defaultProps = {
-    data: {
-        subTitle: "",
-        yield: "",
-        prepTime: "0",
-        cookTime: "0",
-        totalTime: "0",
-        ingredients: [],
-        instructions: [],
-        assembly: []
-    }
+  data: {
+    subTitle: '',
+    yield: '',
+    prepTime: '0',
+    cookTime: '0',
+    totalTime: '0',
+    ingredients: [],
+    instructions: [],
+    assembly: []
+  }
 };
 
 RecipeSEO.propTypes = {
-  data: PropTypes.object,
+  data: PropTypes.object
 };
 
 export default RecipeSEO;
@@ -95,7 +98,7 @@ const detailsQuery = graphql`
         title
         description
         author {
-            name
+          name
         }
       }
     }

@@ -191,11 +191,7 @@
     transition: all 0.2s linear;
     transition-delay: 0.15s;
 }
-  
 
-.ingredient-section {
-
-}
 
 .ingredient-section__title {
     color: hsla(0,0%,0%,0.9);

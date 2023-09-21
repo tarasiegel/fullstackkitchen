@@ -138,11 +138,6 @@ module.exports = {
         pathToConfigModule: `src/utils/typography`
       }
     },
-    {
-      resolve: `gatsby-source-instagram`,
-      options: {
-        username: `6885349594`
-      }
-    }
+    'gatsby-plugin-netlify',
   ]
 };

@@ -1,0 +1,39 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/styles.9a6df2af7d2ac5e352ea.css
+  Cache-Control: public, max-age=31536000, immutable
+/b637e9a5-0283354827ce3def11c1.js
+  Cache-Control: public, max-age=31536000, immutable
+/a40b306e75897b3fe826a9e5d53cf2e03eb443a5-0a9b69bc459c7211b815.js
+  Cache-Control: public, max-age=31536000, immutable
+/e5f5b259f3bc5bd31060582de6626886320e23cc-5c60f0b7d3df8e3b4380.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-blog-post-js-d7a5391575d5047930c2.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-404-js-942c02aec8b4dc03beff.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-about-js-a875c07226c0236336c5.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-index-js-0396fcad2919c3549fe7.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-recipes-js-2573ac65a1fc37df4b17.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-using-typescript-tsx-26d5f6042be89a221cd9.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---cache-caches-gatsby-plugin-offline-app-shell-js-d9baf0b62dd26ab105be.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-090670368fd73acee138.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-783ef53a5f4ec38047a4.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-731a70c800b2eec5607d.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache

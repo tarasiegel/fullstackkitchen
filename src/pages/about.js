@@ -97,8 +97,8 @@ export const query = graphql`
       }
     }
     aboutData: allMarkdownRemark(
-      sort: { fields: [frontmatter___date], order: DESC }
-      filter: { fileAbsolutePath: { regex: "//pages//" } }
+      sort: {frontmatter: {date: DESC}}
+      filter: {fileAbsolutePath: {regex: "//pages//"}}
     ) {
       edges {
         node {

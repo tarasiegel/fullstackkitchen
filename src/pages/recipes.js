@@ -80,8 +80,8 @@ export const pageQuery = graphql`
       }
     }
     allMarkdownRemark(
-      sort: { fields: [frontmatter___date], order: DESC }
-      filter: { fileAbsolutePath: { regex: "//blog//" } }
+      sort: {frontmatter: {date: DESC}}
+      filter: {fileAbsolutePath: {regex: "//blog//"}}
     ) {
       edges {
         node {

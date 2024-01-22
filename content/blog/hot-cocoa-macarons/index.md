@@ -19,7 +19,7 @@ Hot Cocoa Macarons w/chocolate & marshmallow filling: Its absurdly cold today in
 
 <div class="multi-picture multi-picture--2">
 
-![Slice View](./hot_cocoa_macarons-14.jpg)
+![](./hot_cocoa_macarons-14.jpg)
 
 ![Slice View](./hot_cocoa_macarons-11.jpg)
 
@@ -27,4 +27,4 @@ Hot Cocoa Macarons w/chocolate & marshmallow filling: Its absurdly cold today in
 
 ![Slice View](./hot_cocoa_macarons-2.jpg)
 
-![Top View with can](./hot_cocoa_macarons-9.jpg)
+![Top View](./hot_cocoa_macarons-9.jpg)

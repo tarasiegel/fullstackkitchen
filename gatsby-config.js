@@ -94,9 +94,7 @@ module.exports = {
             },
             query: `
               {
-                allMarkdownRemark(
-                  sort: { order: DESC, fields: [frontmatter___date] },
-                ) {
+                allMarkdownRemark(sort: {frontmatter: {date: ASC}}, limit: 1000) {
                   nodes {
                     excerpt
                     html
@@ -138,11 +136,6 @@ module.exports = {
         pathToConfigModule: `src/utils/typography`
       }
     },
-    {
-      resolve: `gatsby-source-instagram`,
-      options: {
-        username: `6885349594`
-      }
-    }
+    'gatsby-plugin-netlify',
   ]
 };

@@ -1,10 +1,11 @@
 const recipe = [
   {
     subTitle: '',
-    yield: 'Makes: 1 pie',
+    yield: 'Makes: 1 pie, 12 servings',
     prepTime: '15',
     cookTime: '18',
     totalTime: '50',
+    calories: '330',
     ingredients: [
       {
         title: 'crust',

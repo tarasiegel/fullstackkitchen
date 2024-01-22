@@ -7,7 +7,6 @@ import { instagram } from 'react-icons-kit/fa/instagram';
 import { envelope } from 'react-icons-kit/fa/envelope';
 import { facebookSquare } from 'react-icons-kit/fa/facebookSquare';
 import { pinterest } from 'react-icons-kit/fa/pinterest';
-import InstagramPosts from '../components/InstagramPosts';
 
 import Layout from '../components/layout';
 import Seo from '../components/seo';
@@ -17,7 +16,6 @@ import './about.css';
 const About = ({ data, location }) => {
   const { author, title } = data.site.siteMetadata;
   const pages = data.aboutData.edges;
-  console.log(pages);
 
   return (
     <Layout location={location} title={title}>
@@ -70,9 +68,6 @@ const About = ({ data, location }) => {
                   </a>
                 </div>
               </div>
-              <div className="about-container__instagram desktop">
-                <InstagramPosts limit={16} />
-              </div>
             </div>
             <div className="about-container__text-container">
               <div className="blog-html" dangerouslySetInnerHTML={{ __html: node.html }} />
@@ -97,8 +92,8 @@ export const query = graphql`
       }
     }
     aboutData: allMarkdownRemark(
-      sort: { fields: [frontmatter___date], order: DESC }
-      filter: { fileAbsolutePath: { regex: "//pages//" } }
+      sort: {frontmatter: {date: DESC}}
+      filter: {fileAbsolutePath: {regex: "//pages//"}}
     ) {
       edges {
         node {

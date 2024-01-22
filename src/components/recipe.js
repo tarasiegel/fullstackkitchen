@@ -174,8 +174,8 @@ class RecipeSection extends React.Component {
           <div className="recipe__prep-time">{`Prep: ${this.getTime(recipe.prepTime)}`}</div>
           <div className="recipe__cook-time">{`Cook: ${this.getTime(recipe.cookTime)}`}</div>
           <div className="recipe__total-time">{`Total: ${this.getTime(recipe.totalTime)}`}</div>
+          <div className='recipe__calories-per-serving'>{`Calories per serving: ${recipe.calories} cal`}</div>
         </div>
-
         <div className="recipe__content">
           <div className="recipe__ingredients-container">
             <div className="recipe__ingredients-title recipe__section-title">Ingredients</div>

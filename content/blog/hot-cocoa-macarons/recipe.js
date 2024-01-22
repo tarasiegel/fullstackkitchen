@@ -4,6 +4,7 @@ const recipe = [
     prepTime: '20',
     cookTime: '40',
     totalTime: '60',
+    calories: '120',
     ingredients: [
       {
         title: 'Macaron Shells',
@@ -41,14 +42,67 @@ const recipe = [
             reference: 'sugar'
           }
         ]
+      },
+      {
+        title: 'Marshmallow Buttercream',
+        data: [
+          {
+            text: '1 packet (2 1/4 teaspoon) unflavored gelatin powder',
+            reference: 'gelatin'
+          },
+          {
+            text: '1 Tablespoon vanilla extract',
+            reference: 'vanilla'
+          },
+          {
+            text: '283g (10oz) light corn syrup',
+            reference: 'corn syrup'
+          },
+          {
+            text: '400g (2 cups) white sugar',
+            reference: 'sugar'
+          },
+          {
+            text: '1/2 tsp kosher salt',
+            reference: 'salt'
+          },
+          {
+            text: '5 sticks unsalted butter, soft but cool to touch',
+            reference: 'butter'
+          }
+        ]
+      },
+      {
+        title: 'Chocolate Ganache',
+        data: [
+          {
+            text: '227g (1 cups) heavy cream',
+            reference: 'cream'
+          },
+          {
+            text: '39g (2 Tablespoons) light corn syrup',
+            reference: 'corn syrup'
+          },
+          {
+            text: '400g (2 cups) dark chocolate, chopped',
+            reference: 'dark chocolate'
+          }
+        ]
       }
     ],
     instructions: [
-      "<a href='https://www.cloudykitchen.com/blog/2018/6/30/chocolate-macarons-with-dark-chocolate-swiss-meringue-buttercream-and-cherry-compote-filling'>Chocolate Macaron Shells</a>",
-      "<a href='https://www.saveur.com/best-white-layer-cake-recipe'>Marshmallow Buttercream</a>",
-      "<a href='https://www.kingarthurflour.com/recipes/chocolate-ganache-recipe'>Chocolate Ganache</a>"
+      '<b>Macarons:</b>',
+      "<a href='https://www.cloudykitchen.com/blog/2018/6/30/chocolate-macarons-with-dark-chocolate-swiss-meringue-buttercream-and-cherry-compote-filling'>Recipe from Cloudy Kitchen</a>",
+      '<b>Marshmallow Buttercream:</b>',
+      "<a href='https://www.saveur.com/best-white-layer-cake-recipe'>Recipe</a>",
+      '<b>Chocolate Ganache:</b>',
+      'Put chopped chocolate in a heatproof bowl.  Heat the cream and corn syrup in a saucepan, until the mixture begins to simmer. Pour the mixture over the chocolate and cover the bowl. Let sit for 5 minutes. Stir, strating slowly, to incorportate everything.',
+      'Cover the ganache with plastic wrap, making sure its touching the ganache to prevent a film. Refridgerate for at least a few hours, until it thickens and is pipeable but not tooo solid.'
+
     ],
-    assembly: []
+    assembly: [
+      "Place half the macaron shells upside down.  Place the buttercream and ganache in separate piping bags.  Pipe a ring of buttercream on the inside of each shell.  Pipe a blob of chocolate ganache in the center.  Sandwich with another macaron shell."
+    ]
   }
 ];
 

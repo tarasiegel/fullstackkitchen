@@ -5,6 +5,7 @@ const recipe = [
     prepTime: '10',
     cookTime: '20',
     totalTime: '30',
+    calories: '115',
     ingredients: [
       {
         title: '',

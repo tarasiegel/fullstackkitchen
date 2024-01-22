@@ -63,7 +63,10 @@ function RecipeSEO({ data, image, name, keywords, date, description }) {
                         "recipeInstructions": [${getInstructions(data.instructions)}],
                         "aggregateRating": null,
                         "video": null,
-                        "nutrition": null
+                        "nutrition": {
+                          "@type": "NutritionInformation",
+                          "calories": "${data.calories} calories"
+                        },
                     }`}</script>
           </Helmet>
         );

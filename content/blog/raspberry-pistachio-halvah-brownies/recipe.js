@@ -1,11 +1,11 @@
 const recipe = [
   {
     subTitle: '',
-    yield: 'Makes: 16 Brownies, 10-12 servings',
+    yield: 'Makes: 16 Brownies',
     prepTime: '45',
     cookTime: '35',
     totalTime: '90',
-    calories: '',
+    calories: '280',
     ingredients: [
       {
         title: 'Halva',

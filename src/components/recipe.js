@@ -14,12 +14,22 @@ const Recipe = props => {
     return recipeHtml;
   };
 
+  const getSEO = recipes => {
+    let recipeHtml = [];
+    recipes.forEach((rec, sec) => {
+      recipeHtml.push(<RecipeSEO data={rec} {...props} />);
+    });
+    return recipeHtml;
+  };
+
+
   const { name, recipe, image } = props;
   const recipeSections = getRecipeSection(recipe);
+  const seo = getSEO(recipe);
 
   return (
     <div className="recipe">
-      <RecipeSEO data={recipe[0]} {...props} />
+      {seo}
       <div className="recipe__image">
         <GatsbyImage image={image} alt={name} />
       </div>

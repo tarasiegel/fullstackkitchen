@@ -5,6 +5,7 @@ const recipe = [
     prepTime: '5',
     cookTime: '20',
     totalTime: '25',
+    calories: '1100',
     ingredients: [
       {
         title: '',
@@ -74,10 +75,11 @@ const recipe = [
   },
   {
     subTitle: 'Ricotta Cheesecake',
-    yield: 'Makes one 8-inch cake, about 10-12 servings',
+    yield: 'Makes one 8-inch cake, about 12 servings',
     prepTime: '30',
     cookTime: '100',
     totalTime: '400',
+    calories: '410',
     ingredients: [
       {
         title: 'Crust',

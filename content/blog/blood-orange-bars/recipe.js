@@ -5,6 +5,7 @@ const recipe = [
     prepTime: '20',
     cookTime: '40',
     totalTime: '60',
+    calories: '250',
     ingredients: [
       {
         title: 'crust',

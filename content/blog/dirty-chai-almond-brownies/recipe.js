@@ -1,10 +1,11 @@
 const recipe = [
   {
     subTitle: '',
-    yield: 'Makes: 24 brownies',
+    yield: 'Makes: 16 brownies',
     prepTime: '20',
     cookTime: '35',
     totalTime: '55',
+    calories: '150',
     ingredients: [
       {
         title: '',

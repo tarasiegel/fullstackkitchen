@@ -19,50 +19,54 @@ function Seo({ description, lang, meta, keywords, title, image }) {
             titleTemplate={`%s | ${data.site.siteMetadata.title}`}
             meta={[
               {
-                name: `description`,
+                name: 'description',
                 content: metaDescription
               },
               {
-                property: `og:title`,
+                property: 'og:title',
                 content: title
               },
               {
-                property: `og:description`,
+                property: 'og:description',
                 content: metaDescription
               },
               {
-                property: `og:image`,
+                property: 'og:image',
                 content: imageUrl
               },
               {
-                property: `og:type`,
+                property: 'og:type',
                 content: `website`
               },
               {
-                name: `twitter:card`,
+                name: 'twitter:card',
                 content: `summary`
               },
               {
-                name: `twitter:creator`,
+                name: 'twitter:creator',
                 content: data.site.siteMetadata.author.name
               },
               {
-                name: `twitter:title`,
+                name: 'twitter:title',
                 content: title
               },
               {
-                name: `twitter:description`,
+                name: 'twitter:description',
                 content: metaDescription
               },
               {
-                name: `twitter:image`,
+                name: 'twitter:image',
                 content: imageUrl
+              },
+              {
+                name: 'robots',
+                content: 'index'
               }
             ]
               .concat(
                 keywords.length > 0
                   ? {
-                      name: `keywords`,
+                      name: 'keywords',
                       content: keywords.join(`, `)
                     }
                   : []

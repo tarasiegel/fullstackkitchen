@@ -15,7 +15,7 @@ const recipe = [
             reference: 'pie pan'
           },
           {
-            text: '5 oz graham crackers, about 1 sleave',
+            text: '5 oz graham crackers, about 1 sleeve',
             reference: 'graham crackers'
           },
           {
